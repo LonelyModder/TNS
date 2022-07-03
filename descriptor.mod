@@ -10,4 +10,4 @@ tags={
 	"Characters"
 	"Interface"
 }
-name="The New Sargon"
+name="King of Kings"
