@@ -4,9 +4,10 @@
  matrist_religion:0 "Heresy"
 
  #Start date
+ CURRENT_DATE:0 "[GetChristianDateString]"
  CURRENT_DATE_TOOLTIP:2 "#T Current Date#!\nThe game date counts from the death of Sargon the Great the first ever emperor in 2279 BCE.\n\n#TF Now any King who wants to call himself my equal wherever I went let him go. - Sargon the Great#!"
  DATE_TOOLTIP:0 "[Date.GetTimeUntil]\n years since death of Sargon."
- THE_WORLD:1 "[GetDateString] ASD"
+ THE_WORLD:1 "[GetChristianDateString] BC"
  THE_WORLD_TOOLTIP:1 "#T Current Date#!\nASD stands for After Sargons Death. The year 2279 BCE was chosen as the date from which the time will be counted because Sargon is first emperor accepted by most of scientific community. His conquests inspired many future leaders."
  
  ASHURINTRO:0 "#T Assyria#!\nDifficulty: #Y Easy#!\n\n At the beginning of the game, the Assyrian Empire lost control of its borders and the Aramaic tribes managed to take control of most of the western and southern territory of Assyria. The old lion is wounded but not dead. The Assyrians are a highly militarized culture, and recent defeats have only strengthened their conviction that their sacred mission is to bring order and security to the region by all means necessary. "
