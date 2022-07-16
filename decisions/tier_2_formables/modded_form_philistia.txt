@@ -18,11 +18,11 @@
 		highlight = {
 			scope:province = {
 				OR = {
-					province_id = 659
-					province_id = 660
-					province_id = 661
-					province_id = 685
-					province_id = 690
+					province_id = 4275
+					province_id = 4273
+					province_id = 4218
+					province_id = 4216
+					province_id = 4214
 				}
 			}
 		}
@@ -37,11 +37,11 @@
 				}
 			}
 			can_form_nation_trigger = yes
-			owns = 659
-			owns = 660
-			owns = 661
-			owns = 685
-			owns = 690
+			owns = 4275
+			owns = 4273
+			owns = 4218
+			owns = 4216
+			owns = 4214
 		}
 		
 		effect = {
@@ -66,24 +66,24 @@
 				limit = {
 					NOT = {
 						capital_scope = {
-							province_id = 690
+							province_id = 4275
 						}
 					}
 				}
-				set_capital = 690
+				set_capital = 4275
 				hidden_effect = {
-					p:690.state = {
-						set_state_capital = 690
+					p:4275.state = {
+						set_state_capital = 4275
 					}
 				}
 			}
-			p:690 = {
+			p:4275 = {
 				if = {
 					limit = { has_city_status = no }
 					set_city_status = city
 				}
 			}
-			p:690 = {
+			p:4275 = {
 				capital_formable_medium_effect = yes
 				formable_capital_modifier_normal_effect = yes
 			}

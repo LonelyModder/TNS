@@ -385,10 +385,17 @@
 	}
 
 	culture = {
-		upper_kemetic = {} #Upper Kemetic
-		middle_kemetic = {} #Middle Kemetic
-		lower_kemetic = {} #Lower Kemetic
-		desert_kemetic = {} #Deshretic
+		deltan = {}
+		memphite = {}
+		thebaidan = {}
+		met_irtan = {}
+		mu_kedan = {}
+		swenettic = {}
+		abdjan = {}
+		henenite = {}
+		khmunite = {}
+		nubo_kemetic = {} #Kemeto-Kushite
+		deshreti = {} #Deshretic
 	}
 	
 	barbarian_names = { GARAMANTES NASSAMONES ASBYSTAE ADYRMACHIDAE GILLIGAMAE AUSCHISAE TROGLODYTAE PSYLLI LAGUATANI MESHWESH }
@@ -396,6 +403,6 @@
 	graphical_culture = egyptian_gfx
 	
 	ethnicities = {
-		10 = north_african
+		10 = egyptian
 	}
 }

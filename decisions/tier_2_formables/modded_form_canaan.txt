@@ -5,7 +5,16 @@
 		
 		potential = {
 			OR = {
-				primary_culture = canaanites
+				primary_culture = girzite
+				primary_culture = jebusite
+				primary_culture = avite
+				primary_culture = lev_doric
+				primary_culture = lev_accan
+				primary_culture = ibleamite
+				primary_culture = tanachite
+				primary_culture = megiddan
+				primary_culture = apekhan
+				primary_culture = socohi
 			}
 			#is_tribal = yes
 			NOT = {
@@ -20,10 +29,10 @@
 		highlight = {
 			scope:province = {
 				OR = {
-					province_id = 690 #Gath
-					province_id = 687 #Jebus
-					province_id = 648 #Hazor
-					province_id = 669 #Megiddo
+					province_id = 4275 #Gath
+					province_id = 4242 #Jebus
+					province_id = 3975 #Hazor
+					province_id = 4193 #Megiddo
 				}
 			}
 		}
@@ -38,10 +47,10 @@
 				}
 			}
 			can_form_nation_trigger = yes
-			owns = 690 #Gath
-			owns = 687 #Jebus
-			owns = 648 #Hazor
-			owns = 669 #Megiddo
+			owns = 4275 #Gath
+			owns = 4242 #Jebus
+			owns = 3975 #Hazor
+			owns = 4193 #Megiddo
 		}
 		
 		effect = {
@@ -66,24 +75,24 @@
 				limit = {
 					NOT = {
 						capital_scope = {
-							province_id = 648
+							province_id = 3975
 						}
 					}
 				}
-				set_capital = 648
+				set_capital = 3975
 				hidden_effect = {
-					p:648.state = {
-						set_state_capital = 648
+					p:3975.state = {
+						set_state_capital = 3975
 					}
 				}
 			}
-			p:648 = {
+			p:3975 = {
 				if = {
 					limit = { has_city_status = no }
 					set_city_status = city
 				}
 			}
-			p:648 = {
+			p:3975 = {
 				capital_formable_medium_effect = yes
 				formable_capital_modifier_normal_effect = yes
 			}

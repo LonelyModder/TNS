@@ -7,7 +7,7 @@
 			country_culture_group = kassites
 			#is_tribal = yes
 			NOT = {
-				tag = ABR
+				tag = AAA
 			}
 			NOR = {
 				is_tier_2_formable_trigger = yes
@@ -18,7 +18,7 @@
 		highlight = {
 			scope:province = {
 				OR = {
-					province_id = 918
+					province_id = 6087
 				}
 			}
 		}
@@ -28,18 +28,18 @@
 				text = karduniash_must_not_exist
 				NOT = {
 					any_country = {
-						tag = ABR
+						tag = AAA
 					}
 				}
 			}
 			can_form_nation_trigger = yes
-			owns = 918
+			owns = 6087
 		}
 		
 		effect = {
 			custom_tooltip = "tier_2_formable_tooltip"
-			change_country_name = "ABR"
-			change_country_flag = ABR
+			change_country_name = "AAA"
+			change_country_flag = AAA
 			if = {
 				limit = { is_tribal = yes }
 				add_country_modifier = {
@@ -50,32 +50,32 @@
 				switch_government_type_event_clearup_effect = yes
 			}
 			hidden_effect = {
-				change_country_adjective = "ABR_ADJ"
+				change_country_adjective = "AAA_ADJ"
 				change_country_color =  "karduniash_color"
-				change_country_tag = ABR
+				change_country_tag = AAA
 			}
 			if = {
 				limit = {
 					NOT = {
 						capital_scope = {
-							province_id = 918
+							province_id = 6087
 						}
 					}
 				}
-				set_capital = 918
+				set_capital = 6087
 				hidden_effect = {
-					p:918.state = {
-						set_state_capital = 918
+					p:6087.state = {
+						set_state_capital = 6087
 					}
 				}
 			}
-			#p:918 = {
+			#p:6087 = {
 			#	if = {
 			#		limit = { has_city_status = no }
 			#		set_city_status = city
 			#	}
 			#}
-			p:918 = {
+			p:6087 = {
 				capital_formable_medium_effect = yes
 				formable_capital_modifier_normal_effect = yes
 			}

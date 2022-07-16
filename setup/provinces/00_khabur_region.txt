@@ -1,0 +1,1615 @@
+﻿16={ #Gurpissu
+	terrain="plains"
+	culture="temmanite"
+	religion="anunnaki_pantheon"
+	trade_goods="leather"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+142={ #Hurhutûtu
+	terrain="farmland"
+	culture="temmanite"
+	religion="anunnaki_pantheon"
+	trade_goods="cattle"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=6
+	}
+	slaves={
+		amount=2
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+1568={ #Kiqillutu
+	terrain="farmland"
+	culture="bahianic"
+	religion="anunnaki_pantheon"
+	trade_goods="cattle"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=5
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1655={ #Shendu
+	terrain="plains"
+	culture="temmanite"
+	religion="anunnaki_pantheon"
+	trade_goods="wild_game"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+2512={ #Guzana
+	terrain="farmland"
+	culture="bahianic"
+	religion="anunnaki_pantheon"
+	trade_goods="cloth"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city"
+	nobles={
+		amount=1
+	}
+	citizen={
+		amount=3
+	}
+	freemen={
+		amount=8
+	}
+	slaves={
+		amount=5
+	}
+	slaves={
+		amount=3
+	}
+}
+
+2552={ #Kurda
+	terrain="farmland"
+	culture="temmanite"
+	religion="anunnaki_pantheon"
+	trade_goods="fur"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=5
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+3534={ #Nahallu
+	terrain="plains"
+	culture="bahianic"
+	religion="anunnaki_pantheon"
+	trade_goods="wild_game"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+3538={ #Zarani
+	terrain="plains"
+	culture="bahianic"
+	religion="anunnaki_pantheon"
+	trade_goods="wild_game"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+3704={ #Lubkêti
+	terrain="farmland"
+	culture="yahiran"
+	religion="anunnaki_pantheon"
+	trade_goods="cattle"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=6
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3940={ #Tapâlu
+	terrain="farmland"
+	culture="yahiran"
+	religion="anunnaki_pantheon"
+	trade_goods="cattle"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=5
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+4960={ #Mashâdu
+	terrain="farmland"
+	culture="yahiran"
+	religion="anunnaki_pantheon"
+	trade_goods="cattle"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=6
+	}
+	slaves={
+		amount=1
+	}
+}
+
+4961={ #Wassukanni
+	terrain="farmland"
+	culture="bahianic"
+	religion="anunnaki_pantheon"
+	trade_goods="cloth"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=5
+	}
+	slaves={
+		amount=2
+	}
+}
+
+4962={ #Sikani
+	terrain="farmland"
+	culture="bahianic"
+	religion="anunnaki_pantheon"
+	trade_goods="horses"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=5
+	}
+	slaves={
+		amount=2
+	}
+}
+
+4963={ #Talhad
+	terrain="farmland"
+	culture="bahianic"
+	religion="anunnaki_pantheon"
+	trade_goods="honey"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=6
+	}
+	slaves={
+		amount=1
+	}
+}
+
+4964={ #Kubanase
+	terrain="farmland"
+	culture="temmanite"
+	religion="anunnaki_pantheon"
+	trade_goods="honey"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=5
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+4965={ #Matnu
+	terrain="farmland"
+	culture="temmanite"
+	religion="anunnaki_pantheon"
+	trade_goods="salt"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=5
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+4966={ #Kisallu
+	terrain="farmland"
+	culture="temmanite"
+	religion="anunnaki_pantheon"
+	trade_goods="cattle"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=5
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+4967={ #Kasûm
+	terrain="plains"
+	culture="yahiran"
+	religion="anunnaki_pantheon"
+	trade_goods="cattle"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+4968={ #Sudu
+	terrain="farmland"
+	culture="temmanite"
+	religion="anunnaki_pantheon"
+	trade_goods="salt"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city"
+	citizen={
+		amount=4
+	}
+	freemen={
+		amount=5
+	}
+	slaves={
+		amount=2
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+4969={ #Mâ'u
+	terrain="hills"
+	culture="temmanite"
+	religion="anunnaki_pantheon"
+	trade_goods="precious_metals"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+4970={ #Kuzbu
+	terrain="hills"
+	culture="temmanite"
+	religion="anunnaki_pantheon"
+	trade_goods="precious_metals"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+4971={ #Kinûtu
+	terrain="farmland"
+	culture="temmanite"
+	religion="anunnaki_pantheon"
+	trade_goods="cattle"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=5
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+4972={ #Kazbûtu
+	terrain="hills"
+	culture="temmanite"
+	religion="anunnaki_pantheon"
+	trade_goods="fur"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+4973={ #Ariawate
+	terrain="farmland"
+	culture="bahianic"
+	religion="anunnaki_pantheon"
+	trade_goods="cloth"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=5
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+4974={ #Karsu
+	terrain="farmland"
+	culture="temmanite"
+	religion="anunnaki_pantheon"
+	trade_goods="earthware"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=5
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+4975={ #Kiâ'im
+	terrain="farmland"
+	culture="temmanite"
+	religion="anunnaki_pantheon"
+	trade_goods="earthware"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=5
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+4976={ #Aridu
+	terrain="farmland"
+	culture="temmanite"
+	religion="anunnaki_pantheon"
+	trade_goods="honey"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city"
+	citizen={
+		amount=5
+	}
+	freemen={
+		amount=5
+	}
+	slaves={
+		amount=2
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+4977={ #Mannummê
+	terrain="hills"
+	culture="temmanite"
+	religion="anunnaki_pantheon"
+	trade_goods="cattle"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+4978={ #Kabtatu
+	terrain="farmland"
+	culture="temmanite"
+	religion="anunnaki_pantheon"
+	trade_goods="cattle"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=5
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+4979={ #Itu'u
+	terrain="farmland"
+	culture="temmanite"
+	religion="anunnaki_pantheon"
+	trade_goods="cattle"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=5
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+4980={ #Launa
+	terrain="farmland"
+	culture="temmanite"
+	religion="anunnaki_pantheon"
+	trade_goods="cloth"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=5
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+4981={ #Imnu
+	terrain="farmland"
+	culture="temmanite"
+	religion="anunnaki_pantheon"
+	trade_goods="cattle"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=5
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+4982={ #Tidu
+	terrain="farmland"
+	culture="temmanite"
+	religion="anunnaki_pantheon"
+	trade_goods="cattle"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=5
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+4983={ #Issutu
+	terrain="plains"
+	culture="temmanite"
+	religion="anunnaki_pantheon"
+	trade_goods="cattle"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+4984={ #Magrisu
+	terrain="farmland"
+	culture="temmanite"
+	religion="anunnaki_pantheon"
+	trade_goods="cattle"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=6
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+4985={ #Garâbu
+	terrain="farmland"
+	culture="temmanite"
+	religion="anunnaki_pantheon"
+	trade_goods="honey"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=6
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+4986={ #Êkâme
+	terrain="plains"
+	culture="temmanite"
+	religion="anunnaki_pantheon"
+	trade_goods="cloth"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+4987={ #Nabada
+	terrain="plains"
+	culture="temmanite"
+	religion="anunnaki_pantheon"
+	trade_goods="earthware"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city"
+	citizen={
+		amount=5
+	}
+	freemen={
+		amount=5
+	}
+	slaves={
+		amount=2
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+4988={ #Erium
+	terrain="plains"
+	culture="temmanite"
+	religion="anunnaki_pantheon"
+	trade_goods="wild_game"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+4989={ #Esemtu
+	terrain="plains"
+	culture="temmanite"
+	religion="anunnaki_pantheon"
+	trade_goods="cattle"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+4990={ #Ashnakum
+	terrain="farmland"
+	culture="temmanite"
+	religion="anunnaki_pantheon"
+	trade_goods="earthware"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=5
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+4991={ #Egertu
+	terrain="plains"
+	culture="temmanite"
+	religion="anunnaki_pantheon"
+	trade_goods="leather"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+4992={ #Dûtu
+	terrain="farmland"
+	culture="temmanite"
+	religion="anunnaki_pantheon"
+	trade_goods="horses"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=6
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+4993={ #Dintu
+	terrain="plains"
+	culture="temmanite"
+	religion="anunnaki_pantheon"
+	trade_goods="leather"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+4994={ #Appi
+	terrain="plains"
+	culture="temmanite"
+	religion="anunnaki_pantheon"
+	trade_goods="leather"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+4995={ #Kulishnas
+	terrain="farmland"
+	culture="temmanite"
+	religion="anunnaki_pantheon"
+	trade_goods="fur"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=6
+	}
+	slaves={
+		amount=2
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+4996={ #Barû
+	terrain="plains"
+	culture="temmanite"
+	religion="anunnaki_pantheon"
+	trade_goods="earthware"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+4997={ #Diliptu
+	terrain="farmland"
+	culture="temmanite"
+	religion="anunnaki_pantheon"
+	trade_goods="honey"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=6
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+4998={ #Nagar
+	terrain="farmland"
+	culture="temmanite"
+	religion="anunnaki_pantheon"
+	trade_goods="cloth"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city"
+	citizen={
+		amount=4
+	}
+	freemen={
+		amount=5
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+4999={ #Tarîru
+	terrain="farmland"
+	culture="temmanite"
+	religion="anunnaki_pantheon"
+	trade_goods="leather"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=6
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+5191={ #Abashlu
+	terrain="plains"
+	culture="temmanite"
+	religion="anunnaki_pantheon"
+	trade_goods="leather"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+5192={ #Bâlitu
+	terrain="farmland"
+	culture="temmanite"
+	religion="anunnaki_pantheon"
+	trade_goods="leather"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=6
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+5193={ #Bakkiu
+	terrain="farmland"
+	culture="temmanite"
+	religion="anunnaki_pantheon"
+	trade_goods="cattle"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=6
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+5194={ #Urkesh
+	terrain="farmland"
+	culture="temmanite"
+	religion="anunnaki_pantheon"
+	trade_goods="horses"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city"
+	citizen={
+		amount=8
+	}
+	freemen={
+		amount=7
+	}
+	slaves={
+		amount=4
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+5195={ #Nîshê
+	terrain="farmland"
+	culture="temmanite"
+	religion="anunnaki_pantheon"
+	trade_goods="cattle"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=6
+	}
+	slaves={
+		amount=2
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+5196={ #Nuhhutu
+	terrain="plains"
+	culture="temmanite"
+	religion="anunnaki_pantheon"
+	trade_goods="earthware"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+5197={ #Piriktu
+	terrain="farmland"
+	culture="temmanite"
+	religion="anunnaki_pantheon"
+	trade_goods="cattle"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=5
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+5198={ #Qaqqaru
+	terrain="plains"
+	culture="temmanite"
+	religion="anunnaki_pantheon"
+	trade_goods="salt"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+5200={ #Abalu
+	terrain="farmland"
+	culture="temmanite"
+	religion="anunnaki_pantheon"
+	trade_goods="earthware"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=5
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+5201={ #Kahat
+	terrain="farmland"
+	culture="temmanite"
+	religion="anunnaki_pantheon"
+	trade_goods="cloth"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city"
+	citizen={
+		amount=4
+	}
+	freemen={
+		amount=7
+	}
+	slaves={
+		amount=4
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+5202={ #Mudanati
+	terrain="farmland"
+	culture="temmanite"
+	religion="anunnaki_pantheon"
+	trade_goods="horses"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=5
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+5203={ #Labiru
+	terrain="farmland"
+	culture="temmanite"
+	religion="anunnaki_pantheon"
+	trade_goods="cattle"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=5
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+5204={ #Taidu
+	terrain="farmland"
+	culture="temmanite"
+	religion="anunnaki_pantheon"
+	trade_goods="fur"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city"
+	citizen={
+		amount=4
+	}
+	freemen={
+		amount=7
+	}
+	slaves={
+		amount=4
+	}
+	tribesmen={
+		amount=1
+	}
+	holy_site="omen_kumarbi"
+}
+
+5205={ #Musati
+	terrain="plains"
+	culture="temmanite"
+	religion="anunnaki_pantheon"
+	trade_goods="cattle"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+5206={ #Sangutu
+	terrain="farmland"
+	culture="temmanite"
+	religion="anunnaki_pantheon"
+	trade_goods="honey"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=5
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+5207={ #Shekhna
+	terrain="farmland"
+	culture="temmanite"
+	religion="anunnaki_pantheon"
+	trade_goods="honey"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city"
+	citizen={
+		amount=5
+	}
+	freemen={
+		amount=5
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+5208={ #Tankaruttu
+	terrain="farmland"
+	culture="temmanite"
+	religion="anunnaki_pantheon"
+	trade_goods="cattle"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=5
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+5209={ #Nabula
+	terrain="farmland"
+	culture="temmanite"
+	religion="anunnaki_pantheon"
+	trade_goods="precious_metals"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city"
+	citizen={
+		amount=4
+	}
+	freemen={
+		amount=5
+	}
+	slaves={
+		amount=2
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+5210={ #Uznanu
+	terrain="farmland"
+	culture="temmanite"
+	religion="anunnaki_pantheon"
+	trade_goods="cattle"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=5
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+5211={ #Watrissu
+	terrain="farmland"
+	culture="temmanite"
+	religion="anunnaki_pantheon"
+	trade_goods="leather"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=5
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+5212={ #Namuggatu
+	terrain="farmland"
+	culture="ashurite"
+	religion="anunnaki_pantheon"
+	trade_goods="hemp"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=5
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+5213={ #Littu
+	terrain="farmland"
+	culture="ashurite"
+	religion="anunnaki_pantheon"
+	trade_goods="honey"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=5
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+5214={ #Idirtu
+	terrain="farmland"
+	culture="ashurite"
+	religion="anunnaki_pantheon"
+	trade_goods="earthware"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=5
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+5215={ #Hiratu
+	terrain="plains"
+	culture="ashurite"
+	religion="anunnaki_pantheon"
+	trade_goods="cattle"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+5216={ #Gukku
+	terrain="plains"
+	culture="ashurite"
+	religion="anunnaki_pantheon"
+	trade_goods="cattle"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+5217={ #Emidu
+	terrain="farmland"
+	culture="ashurite"
+	religion="anunnaki_pantheon"
+	trade_goods="fur"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=5
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+5218={ #Dababu
+	terrain="farmland"
+	culture="ashurite"
+	religion="anunnaki_pantheon"
+	trade_goods="cattle"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=5
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+5219={ #Bataqu
+	terrain="plains"
+	culture="ashurite"
+	religion="anunnaki_pantheon"
+	trade_goods="horses"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+5226={ #Kallutu
+	terrain="farmland"
+	culture="ashurite"
+	religion="anunnaki_pantheon"
+	trade_goods="hemp"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=5
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+5227={ #Lammu
+	terrain="farmland"
+	culture="ashurite"
+	religion="anunnaki_pantheon"
+	trade_goods="earthware"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=5
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+5228={ #Si'imme
+	terrain="farmland"
+	culture="ashurite"
+	religion="anunnaki_pantheon"
+	trade_goods="earthware"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=5
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+5230={ #Tabite
+	terrain="farmland"
+	culture="ashurite"
+	religion="anunnaki_pantheon"
+	trade_goods="ivory"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=5
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+5909={ #Imriqqu
+	terrain="mountain_valley"
+	culture="temmanite"
+	religion="anunnaki_pantheon"
+	trade_goods="fur"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+6203={ #Nasibina
+	terrain="farmland"
+	culture="temmanite"
+	religion="anunnaki_pantheon"
+	trade_goods="salt"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city"
+	nobles={
+		amount=1
+	}
+	citizen={
+		amount=4
+	}
+	freemen={
+		amount=10
+	}
+	slaves={
+		amount=6
+	}
+	tribesmen={
+		amount=4
+	}
+}
+
+6206={ #Hurra
+	terrain="plains"
+	culture="temmanite"
+	religion="anunnaki_pantheon"
+	trade_goods="precious_metals"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+6733={ #Arman
+	terrain="plains"
+	culture="temmanite"
+	religion="anunnaki_pantheon"
+	trade_goods="cattle"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+6739={ #Saluppu
+	terrain="farmland"
+	culture="ashurite"
+	religion="anunnaki_pantheon"
+	trade_goods="cattle"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=5
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=1
+	}
+}
+

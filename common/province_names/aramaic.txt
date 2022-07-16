@@ -1,3 +1,3 @@
-﻿aramaic = { # Aramean names
-	511 = PROV511_hyksosi #Avaris
+﻿aramaic = { # Israelic names
+	4563 = PROV4563_aramaic #Avaris
 }

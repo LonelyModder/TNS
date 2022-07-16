@@ -1,0 +1,1231 @@
+﻿2099={ #Kerdylia
+	terrain="hills"
+	culture="bisaltian"
+	religion="thracic_pantheon"
+	trade_goods="stone"
+	civilization_value=0
+	barbarian_power=3
+	province_rank="settlement"
+	freemen={
+		amount=2
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+2100={ #Ephkarpia
+	terrain="hills"
+	culture="bisaltian"
+	religion="thracic_pantheon"
+	trade_goods="stone"
+	civilization_value=0
+	barbarian_power=3
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+2101={ #Achinos
+	terrain="hills"
+	culture="bisaltian"
+	religion="thracic_pantheon"
+	trade_goods="earthware"
+	civilization_value=0
+	barbarian_power=3
+	province_rank="settlement"
+	freemen={
+		amount=2
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+2102={ #Patriki
+	terrain="plains"
+	culture="bisaltian"
+	religion="thracic_pantheon"
+	trade_goods="cattle"
+	civilization_value=0
+	barbarian_power=3
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+2103={ #Lagkadi
+	terrain="mountain"
+	culture="bisaltian"
+	religion="thracic_pantheon"
+	trade_goods="wild_game"
+	civilization_value=0
+	barbarian_power=3
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+2104={ #Berge
+	terrain="hills"
+	culture="bisaltian"
+	religion="thracic_pantheon"
+	trade_goods="hemp"
+	civilization_value=0
+	barbarian_power=3
+	province_rank="settlement"
+	freemen={
+		amount=2
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+2105={ #Arrolos
+	terrain="hills"
+	culture="mygdonian"
+	religion="thracic_pantheon"
+	trade_goods="fur"
+	civilization_value=0
+	barbarian_power=3
+	province_rank="settlement"
+	freemen={
+		amount=2
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+2106={ #Kheimarros
+	terrain="marsh"
+	culture="sintikan"
+	religion="thracic_pantheon"
+	trade_goods="reeds"
+	civilization_value=0
+	barbarian_power=3
+	province_rank="settlement"
+	freemen={
+		amount=2
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+2107={ #Anagennisi
+	terrain="plains"
+	culture="odomantian"
+	religion="thracic_pantheon"
+	trade_goods="leather"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+2108={ #Kamila
+	terrain="plains"
+	culture="odomantian"
+	religion="thracic_pantheon"
+	trade_goods="cattle"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+2109={ #Skoutari
+	terrain="farmland"
+	culture="odomantian"
+	religion="thracic_pantheon"
+	trade_goods="horses"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+2110={ #Pethelinos
+	terrain="farmland"
+	culture="odomantian"
+	religion="thracic_pantheon"
+	trade_goods="grain"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+2112={ #Eion
+	terrain="farmland"
+	culture="pierian"
+	religion="thracic_pantheon"
+	trade_goods="grain"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+2113={ #Myrkinos
+	terrain="farmland"
+	culture="odomantian"
+	religion="thracic_pantheon"
+	trade_goods="grain"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+2114={ #Drabeskos
+	terrain="forest"
+	culture="pierian"
+	religion="thracic_pantheon"
+	trade_goods="wood"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+2115={ #Galepsos
+	terrain="farmland"
+	culture="pierian"
+	religion="thracic_pantheon"
+	trade_goods="grain"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+2117={ #Apollonia
+	terrain="deep_forest"
+	culture="pierian"
+	religion="thracic_pantheon"
+	trade_goods="wood"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+2118={ #Podhokhori
+	terrain="farmland"
+	culture="pierian"
+	religion="thracic_pantheon"
+	trade_goods="grain"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=2
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+2120={ #Domatia
+	terrain="mountain_valley"
+	culture="pierian"
+	religion="thracic_pantheon"
+	trade_goods="cattle"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=2
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+2121={ #Oisyme
+	terrain="deep_forest"
+	culture="pierian"
+	religion="thracic_pantheon"
+	trade_goods="wild_game"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+2122={ #Kipia
+	terrain="forest"
+	culture="pierian"
+	religion="thracic_pantheon"
+	trade_goods="wood"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+2123={ #Saranta
+	terrain="plains"
+	culture="pierian"
+	religion="thracic_pantheon"
+	trade_goods="cloth"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+2124={ #Khortokopi
+	terrain="hills"
+	culture="edonian"
+	religion="thracic_pantheon"
+	trade_goods="cattle"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+2125={ #Toska
+	terrain="hills"
+	culture="sapaioi"
+	religion="thracic_pantheon"
+	trade_goods="stone"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+2126={ #Zygos
+	terrain="deep_forest"
+	culture="trausian"
+	religion="thracic_pantheon"
+	trade_goods="wild_game"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+2128={ #Pistyros
+	terrain="deep_forest"
+	culture="sapaioi"
+	religion="thracic_pantheon"
+	trade_goods="wood"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+2129={ #Eklekto
+	terrain="deep_forest"
+	culture="sapaioi"
+	religion="thracic_pantheon"
+	trade_goods="wood"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+2130={ #Erateino
+	terrain="farmland"
+	culture="sapaioi"
+	religion="thracic_pantheon"
+	trade_goods="olive"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+2131={ #Agiasma
+	terrain="plains"
+	culture="sapaioi"
+	religion="thracic_pantheon"
+	trade_goods="fish"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=2
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+2132={ #Karya
+	terrain="marsh"
+	culture="sapaioi"
+	religion="thracic_pantheon"
+	trade_goods="vegetables"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+2134={ #Erasmio
+	terrain="marsh"
+	culture="sapaioi"
+	religion="thracic_pantheon"
+	trade_goods="vegetables"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+2136={ #Abdera
+	terrain="farmland"
+	culture="sapaioi"
+	religion="thracic_pantheon"
+	trade_goods="wine"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+2137={ #Loutra
+	terrain="plains"
+	culture="bistonian"
+	religion="thracic_pantheon"
+	trade_goods="cattle"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=2
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+2138={ #Genissea
+	terrain="farmland"
+	culture="sapaioi"
+	religion="thracic_pantheon"
+	trade_goods="wine"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=2
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+2140={ #Pelekito
+	terrain="deep_forest"
+	culture="bistonian"
+	religion="thracic_pantheon"
+	trade_goods="iron"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=3
+	}
+}
+
+2142={ #Ageli
+	terrain="deep_forest"
+	culture="sapaioi"
+	religion="thracic_pantheon"
+	trade_goods="fur"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+2143={ #Komnina
+	terrain="mountain_valley"
+	culture="trausian"
+	religion="thracic_pantheon"
+	trade_goods="cattle"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+2144={ #Skopos
+	terrain="mountain_valley"
+	culture="trausian"
+	religion="thracic_pantheon"
+	trade_goods="base_metals"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+2146={ #Likodromio
+	terrain="hills"
+	culture="trausian"
+	religion="thracic_pantheon"
+	trade_goods="stone"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+2147={ #Oraio
+	terrain="forest"
+	culture="bistonian"
+	religion="thracic_pantheon"
+	trade_goods="precious_metals"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=3
+	}
+}
+
+2148={ #Nikisiana
+	terrain="plains"
+	culture="edonian"
+	religion="thracic_pantheon"
+	trade_goods="hemp"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+2149={ #Koinyra
+	terrain="hills"
+	culture="thasosian"
+	religion="canaanitic_pantheon"
+	trade_goods="fish"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=2
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+2150={ #Alyke
+	terrain="hills"
+	culture="thasosian"
+	religion="canaanitic_pantheon"
+	trade_goods="wood"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+2151={ #Limenaria
+	terrain="farmland"
+	culture="thasosian"
+	religion="canaanitic_pantheon"
+	trade_goods="olive"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+2153={ #Adriani
+	terrain="hills"
+	culture="edonian"
+	religion="thracic_pantheon"
+	trade_goods="iron"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+2154={ #Tikhos
+	terrain="mountain_valley"
+	culture="trausian"
+	religion="thracic_pantheon"
+	trade_goods="iron"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+2155={ #Kalliphitos
+	terrain="farmland"
+	culture="edonian"
+	religion="thracic_pantheon"
+	trade_goods="fruits"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=2
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+2157={ #Proti
+	terrain="forest"
+	culture="edonian"
+	religion="thracic_pantheon"
+	trade_goods="fur"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=2
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+2158={ #Angista
+	terrain="hills"
+	culture="edonian"
+	religion="thracic_pantheon"
+	trade_goods="precious_metals"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+2160={ #Khryso
+	terrain="deep_forest"
+	culture="odomantian"
+	religion="thracic_pantheon"
+	trade_goods="wood"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+2161={ #Serrai
+	terrain="deep_forest"
+	culture="odomantian"
+	religion="thracic_pantheon"
+	trade_goods="wild_game"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+2162={ #Lephkonas
+	terrain="deep_forest"
+	culture="odomantian"
+	religion="thracic_pantheon"
+	trade_goods="wood"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+2163={ #Skotoussa
+	terrain="plains"
+	culture="sintikan"
+	religion="thracic_pantheon"
+	trade_goods="cattle"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+2171={ #Dikaia
+	terrain="farmland"
+	culture="bistonian"
+	religion="thracic_pantheon"
+	trade_goods="hemp"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+2172={ #Salpi
+	terrain="farmland"
+	culture="bistonian"
+	religion="thracic_pantheon"
+	trade_goods="grain"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+2173={ #Porpi
+	terrain="farmland"
+	culture="bistonian"
+	religion="thracic_pantheon"
+	trade_goods="grain"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+2174={ #Rodopis
+	terrain="plains"
+	culture="ciconian"
+	religion="thracic_pantheon"
+	trade_goods="earthware"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+2201={ #Thasos
+	terrain="farmland"
+	culture="thasosian"
+	religion="canaanitic_pantheon"
+	trade_goods="fruits"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city"
+	citizen={
+		amount=2
+	}
+	freemen={
+		amount=6
+	}
+	slaves={
+		amount=3
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+2206={ #Sitagroi
+	terrain="farmland"
+	culture="edonian"
+	religion="thracic_pantheon"
+	trade_goods="fruits"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+2207={ #Drama
+	terrain="hills"
+	culture="edonian"
+	religion="thracic_pantheon"
+	trade_goods="cattle"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+2208={ #Kadoni
+	terrain="hills"
+	culture="edonian"
+	religion="thracic_pantheon"
+	trade_goods="iron"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+2209={ #Lyendos
+	terrain="mountain_valley"
+	culture="edonian"
+	religion="thracic_pantheon"
+	trade_goods="wood"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+2210={ #Bagis
+	terrain="hills"
+	culture="trausian"
+	religion="thracic_pantheon"
+	trade_goods="cattle"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+2212={ #Paloxoro
+	terrain="mountain_valley"
+	culture="trausian"
+	religion="thracic_pantheon"
+	trade_goods="stone"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+2213={ #Orkis
+	terrain="hills"
+	culture="trausian"
+	religion="thracic_pantheon"
+	trade_goods="wood"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+2214={ #Amorio
+	terrain="mountain_valley"
+	culture="trausian"
+	religion="thracic_pantheon"
+	trade_goods="cattle"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+2215={ #Appia
+	terrain="deep_forest"
+	culture="bistonian"
+	religion="thracic_pantheon"
+	trade_goods="iron"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+2216={ #Akroini
+	terrain="mountain_valley"
+	culture="bistonian"
+	religion="thracic_pantheon"
+	trade_goods="cattle"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=2
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+2218={ #Tymani
+	terrain="hills"
+	culture="bistonian"
+	religion="thracic_pantheon"
+	trade_goods="cattle"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=2
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+2219={ #Alia
+	terrain="mountain"
+	culture="bistonian"
+	religion="thracic_pantheon"
+	trade_goods="wood"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+2221={ #Aurokrara
+	terrain="farmland"
+	culture="ciconian"
+	religion="thracic_pantheon"
+	trade_goods="olive"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+2222={ #Marmori
+	terrain="deep_forest"
+	culture="ciconian"
+	religion="thracic_pantheon"
+	trade_goods="wood"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=2
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+2223={ #Aiza
+	terrain="hills"
+	culture="ciconian"
+	religion="thracic_pantheon"
+	trade_goods="cattle"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=2
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+2224={ #Ipopsi
+	terrain="plains"
+	culture="ciconian"
+	religion="thracic_pantheon"
+	trade_goods="cattle"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+2225={ #Brodinso
+	terrain="farmland"
+	culture="ciconian"
+	religion="thracic_pantheon"
+	trade_goods="stone"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+2226={ #Auro
+	terrain="hills"
+	culture="ciconian"
+	religion="thracic_pantheon"
+	trade_goods="fur"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=3
+	}
+}
+

@@ -1269,52 +1269,52 @@ entity = {
 
 entity = {
 	name = "nubian_gfx_missile_archers"
-	clone = "nubian_gfx_light_infantry"
+	clone = "nubian_gfx_heavy_infantry"
 }
 
 entity = {
 	name = "nubian_gfx_missile_spearthrowers"
-	clone = "nubian_gfx_light_infantry"
+	clone = "nubian_gfx_heavy_infantry"
 }
 
 entity = {
 	name = "nubian_gfx_cavalry_camels"
-	clone = "nubian_gfx_light_infantry"
+	clone = "nubian_gfx_heavy_infantry"
 }
 
 entity = {
 	name = "nubian_gfx_chariot_light"
-	clone = "nubian_gfx_light_infantry"
+	clone = "nubian_gfx_heavy_infantry"
 }
 
 entity = {
 	name = "nubian_gfx_chariot_heavy"
-	clone = "nubian_gfx_light_infantry"
+	clone = "nubian_gfx_heavy_infantry"
 }
 
 entity = {
 	name = "nubian_gfx_cavalry_horse_archers"
-	clone = "nubian_gfx_light_infantry"
+	clone = "nubian_gfx_heavy_infantry"
 }
 
 entity = {
 	name = "nubian_gfx_cavalry_light"
-	clone = "nubian_gfx_light_infantry"
+	clone = "nubian_gfx_heavy_infantry"
 }
 
 entity = {
 	name = "nubian_gfx_elephant_african"
-	clone = "nubian_gfx_light_infantry"
+	clone = "nubian_gfx_heavy_infantry"
 }
 
 entity = {
 	name = "nubian_gfx_elephant_forest"
-	clone = "nubian_gfx_light_infantry"
+	clone = "nubian_gfx_heavy_infantry"
 }
 
 entity = {
 	name = "nubian_gfx_elephant_indian"
-	clone = "nubian_gfx_light_infantry"
+	clone = "nubian_gfx_heavy_infantry"
 }
 
 
@@ -1327,7 +1327,7 @@ entity = {
 ### Archers ----------------------------------------------------------------
 entity ={
 	name = "nubian_gfx_levy_missile_archers"
-	clone = "nubian_levies_infantry"
+	clone = "nubian_gfx_light_infantry"
 }
 entity ={
 	name = "nubian_gfx_legion_missile_archers"
@@ -1337,7 +1337,7 @@ entity ={
 ### Scirmishers ----------------------------------------------------------------
 entity ={
 	name = "nubian_gfx_levy_missile_spearthrowers"
-	clone = "nubian_levies_infantry"
+	clone = "nubian_gfx_light_infantry"
 }
 entity ={
 	name = "nubian_gfx_legion_missile_spearthrowers"
@@ -1347,7 +1347,7 @@ entity ={
 ### Camels ----------------------------------------------------------------
 entity ={
 	name = "nubian_gfx_levy_cavalry_camels"
-	clone = "nubian_levies_infantry"
+	clone = "nubian_gfx_light_infantry"
 }
 entity ={
 	name = "nubian_gfx_legion_cavalry_camels"
@@ -1357,7 +1357,7 @@ entity ={
 ### Chariots ----------------------------------------------------------------
 entity ={
 	name = "nubian_gfx_levy_chariot_light"
-	clone = "nubian_levies_infantry"
+	clone = "nubian_gfx_light_infantry"
 }
 entity ={
 	name = "nubian_gfx_legion_chariot_light"
@@ -1366,7 +1366,7 @@ entity ={
 
 entity ={
 	name = "nubian_gfx_levy_chariot_heavy"
-	clone = "nubian_levies_infantry"
+	clone = "nubian_gfx_light_infantry"
 }
 entity ={
 	name = "nubian_gfx_legion_chariot_heavy"
@@ -1376,7 +1376,7 @@ entity ={
 ### Engineer Cohort ----------------------------------------------------------------
 entity ={
 	name = "nubian_gfx_levy_engineer_cohort"
-	clone = "nubian_levies_infantry"
+	clone = "nubian_gfx_light_infantry"
 }
 entity ={
 	name = "nubian_gfx_legion_engineer_cohort"
@@ -1386,7 +1386,7 @@ entity ={
 ### Horse Archers ----------------------------------------------------------------
 entity ={
 	name = "nubian_gfx_levy_cavalry_horse_archers"
-	clone = "nubian_levies_infantry"
+	clone = "nubian_gfx_light_infantry"
 }
 entity ={
 	name = "nubian_gfx_legion_cavalry_horse_archers"
@@ -1396,7 +1396,7 @@ entity ={
 ### Light Cavalry ----------------------------------------------------------------
 entity ={
 	name = "nubian_gfx_levy_cavalry_light"
-	clone = "nubian_levies_infantry"
+	clone = "nubian_gfx_light_infantry"
 }
 entity ={
 	name = "nubian_gfx_legion_cavalry_light"
@@ -1406,7 +1406,7 @@ entity ={
 ### Infantry ----------------------------------------------------------------
 entity ={
 	name = "nubian_gfx_levy_light_spearmen"
-	clone = "nubian_levies_infantry"
+	clone = "nubian_gfx_light_infantry"
 }
 entity ={
 	name = "nubian_gfx_legion_light_spearmen"
@@ -1415,7 +1415,7 @@ entity ={
 
 entity ={
 	name = "nubian_gfx_levy_light_swordsmen"
-	clone = "nubian_levies_infantry"
+	clone = "nubian_gfx_light_infantry"
 }
 entity ={
 	name = "nubian_gfx_legion_light_swordsmen"
@@ -1424,7 +1424,7 @@ entity ={
 
 entity ={
 	name = "nubian_gfx_levy_axemen_heavy"
-	clone = "nubian_levies_infantry"
+	clone = "nubian_gfx_light_infantry"
 }
 entity ={
 	name = "nubian_gfx_legion_axemen_heavy"
@@ -1434,7 +1434,7 @@ entity ={
 ### Supply Train ----------------------------------------------------------------
 entity ={
 	name = "nubian_gfx_levy_supply_train"
-	clone = "nubian_levies_infantry"
+	clone = "nubian_gfx_light_infantry"
 }
 entity ={
 	name = "nubian_gfx_legion_supply_train"
@@ -1444,7 +1444,7 @@ entity ={
 ### War Elephant ----------------------------------------------------------------
 entity ={
 	name = "nubian_gfx_levy_elephant_african"
-	clone = "nubian_levies_infantry"
+	clone = "nubian_gfx_light_infantry"
 }
 entity ={
 	name = "nubian_gfx_legion_elephant_african"
@@ -1453,7 +1453,7 @@ entity ={
 
 entity ={
 	name = "nubian_gfx_levy_elephant_forest"
-	clone = "nubian_levies_infantry"
+	clone = "nubian_gfx_light_infantry"
 }
 entity ={
 	name = "nubian_gfx_legion_elephant_forest"
@@ -1462,7 +1462,7 @@ entity ={
 
 entity ={
 	name = "nubian_gfx_levy_elephant_indian"
-	clone = "nubian_levies_infantry"
+	clone = "nubian_gfx_light_infantry"
 }
 entity ={
 	name = "nubian_gfx_legion_elephant_indian"

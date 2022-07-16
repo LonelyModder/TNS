@@ -5,11 +5,11 @@
 		
 		potential = {
 			OR = {
-				primary_culture = makedonic
+				primary_culture = makedon
 			}
 			#is_tribal = yes
 			NOT = {
-				tag = TBY
+				tag = GBO
 			}
 			NOR = {
 				is_tier_2_formable_trigger = yes
@@ -20,7 +20,7 @@
 		highlight = {
 			scope:province = {
 				OR = {
-					province_id = 382
+					province_id = 1811
 				}
 			}
 		}
@@ -30,18 +30,18 @@
 				text = makedonia_must_not_exist
 				NOT = {
 					any_country = {
-						tag = TBY
+						tag = GBO
 					}
 				}
 			}
 			can_form_nation_trigger = yes
-			owns = 382
+			owns = 1811
 		}
 		
 		effect = {
 			custom_tooltip = "tier_2_formable_tooltip"
 			change_country_name = "Makedonia_Name"
-			change_country_flag = TBY
+			change_country_flag = GBO
 			if = {
 				limit = { is_tribal = yes }
 				add_country_modifier = {
@@ -54,30 +54,30 @@
 			hidden_effect = {
 				change_country_adjective = "Makedonia_ADJ"
 				change_country_color =  "makedonia_color"
-				change_country_tag = TBY
+				change_country_tag = GBO
 			}
 			if = {
 				limit = {
 					NOT = {
 						capital_scope = {
-							province_id = 382
+							province_id = 1811
 						}
 					}
 				}
-				set_capital = 382
+				set_capital = 1811
 				hidden_effect = {
-					p:382.state = {
-						set_state_capital = 382
+					p:1811.state = {
+						set_state_capital = 1811
 					}
 				}
 			}
-			p:382 = {
+			p:1811 = {
 				if = {
 					limit = { has_city_status = no }
 					set_city_status = city
 				}
 			}
-			p:382 = {
+			p:1811 = {
 				capital_formable_medium_effect = yes
 				formable_capital_modifier_normal_effect = yes
 			}

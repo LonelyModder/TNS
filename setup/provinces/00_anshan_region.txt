@@ -1,0 +1,861 @@
+﻿6528={ #Dimtu
+	terrain="mountain_valley"
+	culture="anshanian"
+	religion="elamite_pantheon"
+	trade_goods="wood"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city"
+	citizen={
+		amount=3
+	}
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=2
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+6532={ #Esru
+	terrain="mountain_valley"
+	culture="anshanian"
+	religion="elamite_pantheon"
+	trade_goods="wood"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+6533={ #Namrase
+	terrain="mountain_valley"
+	culture="anshanian"
+	religion="elamite_pantheon"
+	trade_goods="wood"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+6534={ #Patu
+	terrain="mountain_valley"
+	culture="anshanian"
+	religion="elamite_pantheon"
+	trade_goods="cattle"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=2
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+6535={ #Pulhu
+	terrain="mountain_valley"
+	culture="anshanian"
+	religion="elamite_pantheon"
+	trade_goods="wild_game"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=2
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+6536={ #Susanian Gates
+	terrain="mountain_valley"
+	culture="anshanian"
+	religion="elamite_pantheon"
+	trade_goods="wild_game"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+6537={ #Sibutum
+	terrain="mountain_valley"
+	culture="anshanian"
+	religion="elamite_pantheon"
+	trade_goods="cattle"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+6538={ #Sarraqum
+	terrain="mountain_valley"
+	culture="anshanian"
+	religion="elamite_pantheon"
+	trade_goods="wild_game"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+6539={ #Penu
+	terrain="mountain"
+	culture="anshanian"
+	religion="elamite_pantheon"
+	trade_goods="stone"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=2
+	}
+}
+
+6540={ #Salsu
+	terrain="mountain_valley"
+	culture="anshanian"
+	religion="elamite_pantheon"
+	trade_goods="cattle"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+6541={ #Samu
+	terrain="mountain"
+	culture="anshanian"
+	religion="elamite_pantheon"
+	trade_goods="stone"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=2
+	}
+}
+
+6542={ #Salasa
+	terrain="mountain"
+	culture="anshanian"
+	religion="elamite_pantheon"
+	trade_goods="wild_game"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=3
+	}
+}
+
+6543={ #Abanaskuppatu
+	terrain="mountain"
+	culture="anshanian"
+	religion="elamite_pantheon"
+	trade_goods="stone"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=2
+	}
+}
+
+6544={ #Shub
+	terrain="mountain_valley"
+	culture="anshanian"
+	religion="elamite_pantheon"
+	trade_goods="cattle"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+6545={ #Tanaddassi
+	terrain="mountain"
+	culture="anshanian"
+	religion="elamite_pantheon"
+	trade_goods="fur"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=2
+	}
+}
+
+6546={ #Sharan
+	terrain="mountain_valley"
+	culture="anshanian"
+	religion="elamite_pantheon"
+	trade_goods="cattle"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+6547={ #Kad
+	terrain="mountain_valley"
+	culture="anshanian"
+	religion="elamite_pantheon"
+	trade_goods="fur"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+6548={ #Adannu
+	terrain="hills"
+	culture="anshanian"
+	religion="elamite_pantheon"
+	trade_goods="fur"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+6549={ #Ultu
+	terrain="hills"
+	culture="anshanian"
+	religion="elamite_pantheon"
+	trade_goods="wild_game"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+6550={ #Kimah
+	terrain="hills"
+	culture="anshanian"
+	religion="elamite_pantheon"
+	trade_goods="cattle"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+6551={ #Shinnu
+	terrain="hills"
+	culture="anshanian"
+	religion="elamite_pantheon"
+	trade_goods="wild_game"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=5
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+6552={ #Anshan
+	terrain="farmland"
+	culture="anshanian"
+	religion="elamite_pantheon"
+	trade_goods="earthware"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city"
+	citizen={
+		amount=14
+	}
+	freemen={
+		amount=10
+	}
+	slaves={
+		amount=4
+	}
+	holy_site="omen_napirisha"
+}
+
+6553={ #Reshu
+	terrain="hills"
+	culture="anshanian"
+	religion="elamite_pantheon"
+	trade_goods="cattle"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+6554={ #Laptu
+	terrain="farmland"
+	culture="anshanian"
+	religion="elamite_pantheon"
+	trade_goods="grain"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=6
+	}
+	slaves={
+		amount=2
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+6555={ #Nisirtisu
+	terrain="hills"
+	culture="anshanian"
+	religion="elamite_pantheon"
+	trade_goods="fur"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+6556={ #Epesu
+	terrain="plains"
+	culture="anshanian"
+	religion="elamite_pantheon"
+	trade_goods="earthware"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+6557={ #Rabum
+	terrain="hills"
+	culture="anshanian"
+	religion="elamite_pantheon"
+	trade_goods="base_metals"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+6558={ #Mandattu
+	terrain="hills"
+	culture="anshanian"
+	religion="elamite_pantheon"
+	trade_goods="cattle"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+6559={ #Biltu
+	terrain="hills"
+	culture="anshanian"
+	religion="elamite_pantheon"
+	trade_goods="wild_game"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+6560={ #Danu
+	terrain="hills"
+	culture="anshanian"
+	religion="elamite_pantheon"
+	trade_goods="cattle"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+6561={ #Pilsu
+	terrain="hills"
+	culture="anshanian"
+	religion="elamite_pantheon"
+	trade_goods="fur"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+6562={ #Dalhu
+	terrain="hills"
+	culture="anshanian"
+	religion="elamite_pantheon"
+	trade_goods="cattle"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+6563={ #Emu
+	terrain="hills"
+	culture="anshanian"
+	religion="elamite_pantheon"
+	trade_goods="fur"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+6564={ #Usemi
+	terrain="plains"
+	culture="anshanian"
+	religion="elamite_pantheon"
+	trade_goods="leather"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+6565={ #Sinser
+	terrain="plains"
+	culture="anshanian"
+	religion="elamite_pantheon"
+	trade_goods="iron"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+6566={ #Sina
+	terrain="plains"
+	culture="anshanian"
+	religion="elamite_pantheon"
+	trade_goods="fur"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+6567={ #Magiri
+	terrain="plains"
+	culture="anshanian"
+	religion="elamite_pantheon"
+	trade_goods="honey"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+6568={ #Adi
+	terrain="marsh"
+	culture="anshanian"
+	religion="elamite_pantheon"
+	trade_goods="reeds"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+6569={ #Elenu
+	terrain="marsh"
+	culture="anshanian"
+	religion="elamite_pantheon"
+	trade_goods="iron"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+6604={ #Akitu
+	terrain="mountain_valley"
+	culture="anshanian"
+	religion="elamite_pantheon"
+	trade_goods="cattle"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+6605={ #Niru
+	terrain="mountain_valley"
+	culture="anshanian"
+	religion="elamite_pantheon"
+	trade_goods="earthware"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+6606={ #Seher
+	terrain="mountain_valley"
+	culture="anshanian"
+	religion="elamite_pantheon"
+	trade_goods="tin"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+6607={ #Etlutu
+	terrain="hills"
+	culture="anshanian"
+	religion="elamite_pantheon"
+	trade_goods="base_metals"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=5
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+6608={ #Wardatu
+	terrain="hills"
+	culture="anshanian"
+	religion="elamite_pantheon"
+	trade_goods="leather"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=5
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+6609={ #Anpa
+	terrain="plains"
+	culture="anshanian"
+	religion="elamite_pantheon"
+	trade_goods="leather"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+6610={ #Eunir
+	terrain="plains"
+	culture="anshanian"
+	religion="elamite_pantheon"
+	trade_goods="honey"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+6611={ #Ushpar
+	terrain="plains"
+	culture="anshanian"
+	religion="elamite_pantheon"
+	trade_goods="earthware"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+6612={ #Zâbil
+	terrain="plains"
+	culture="anshanian"
+	religion="elamite_pantheon"
+	trade_goods="wild_game"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+6613={ #Utu'ûtu
+	terrain="plains"
+	culture="anshanian"
+	religion="elamite_pantheon"
+	trade_goods="cattle"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+6614={ #Tabsûtu
+	terrain="plains"
+	culture="anshanian"
+	religion="elamite_pantheon"
+	trade_goods="cattle"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+6619={ #Eleppi
+	terrain="farmland"
+	culture="anshanian"
+	religion="elamite_pantheon"
+	trade_goods="grain"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=7
+	}
+	slaves={
+		amount=2
+	}
+}
+
+6620={ #Âpiu
+	terrain="plains"
+	culture="anshanian"
+	religion="elamite_pantheon"
+	trade_goods="base_metals"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+6621={ #Isinnu
+	terrain="plains"
+	culture="anshanian"
+	religion="elamite_pantheon"
+	trade_goods="vegetables"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	tribesmen={
+		amount=2
+	}
+}
+

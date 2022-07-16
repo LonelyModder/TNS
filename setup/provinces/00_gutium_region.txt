@@ -1,0 +1,820 @@
+﻿6197={ #Ankida
+	terrain="desert_valley"
+	culture="harhari"
+	religion="kassite_pantheon"
+	trade_goods="base_metals"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+6573={ #Unutu
+	terrain="mountain"
+	culture="harhari"
+	religion="kassite_pantheon"
+	trade_goods="stone"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+6574={ #Mamit
+	terrain="mountain"
+	culture="harhari"
+	religion="kassite_pantheon"
+	trade_goods="base_metals"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+6575={ #Litum
+	terrain="mountain"
+	culture="harhari"
+	religion="kassite_pantheon"
+	trade_goods="precious_metals"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+6576={ #Mina
+	terrain="mountain_valley"
+	culture="harhari"
+	religion="kassite_pantheon"
+	trade_goods="precious_metals"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+6577={ #Libbi Ubla
+	terrain="mountain_valley"
+	culture="harhari"
+	religion="kassite_pantheon"
+	trade_goods="marble"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+6578={ #Etlu
+	terrain="mountain_valley"
+	culture="harhari"
+	religion="kassite_pantheon"
+	trade_goods="base_metals"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+6579={ #Utukagaba
+	terrain="mountain_valley"
+	culture="harhari"
+	religion="kassite_pantheon"
+	trade_goods="steppe_horses"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+6580={ #Kaskal
+	terrain="mountain_valley"
+	culture="harhari"
+	religion="kassite_pantheon"
+	trade_goods="base_metals"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+6581={ #Iskakku
+	terrain="plains"
+	culture="harhari"
+	religion="kassite_pantheon"
+	trade_goods="cattle"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+6582={ #Harhar
+	terrain="plains"
+	culture="harhari"
+	religion="kassite_pantheon"
+	trade_goods="wild_game"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city"
+	citizen={
+		amount=3
+	}
+	slaves={
+		amount=4
+	}
+	tribesmen={
+		amount=7
+	}
+}
+
+6583={ #Baku
+	terrain="mountain_valley"
+	culture="harhari"
+	religion="kassite_pantheon"
+	trade_goods="marble"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+6584={ #Damqis
+	terrain="mountain_valley"
+	culture="harhari"
+	religion="kassite_pantheon"
+	trade_goods="wild_game"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+6585={ #Usi
+	terrain="hills"
+	culture="harhari"
+	religion="kassite_pantheon"
+	trade_goods="base_metals"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+6586={ #Kurmartu
+	terrain="plains"
+	culture="harhari"
+	religion="kassite_pantheon"
+	trade_goods="wild_game"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+6587={ #Babbar
+	terrain="desert_hills"
+	culture="harhari"
+	religion="kassite_pantheon"
+	trade_goods="stone"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+6588={ #Nikkur
+	terrain="plains"
+	culture="harhari"
+	religion="kassite_pantheon"
+	trade_goods="steppe_horses"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=2
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+6589={ #Napalku
+	terrain="mountain"
+	culture="harhari"
+	religion="kassite_pantheon"
+	trade_goods="base_metals"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+6590={ #Rapas
+	terrain="mountain"
+	culture="barran"
+	religion="kassite_pantheon"
+	trade_goods="cattle"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+6591={ #Assat
+	terrain="hills"
+	culture="harhari"
+	religion="kassite_pantheon"
+	trade_goods="base_metals"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+6592={ #Rimanis
+	terrain="hills"
+	culture="harhari"
+	religion="kassite_pantheon"
+	trade_goods="precious_metals"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+6593={ #Iskaranu
+	terrain="mountain"
+	culture="barran"
+	religion="kassite_pantheon"
+	trade_goods="iron"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=2
+	}
+}
+
+6594={ #Bagistana
+	terrain="mountain_valley"
+	culture="harhari"
+	religion="kassite_pantheon"
+	trade_goods="iron"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+6595={ #Kappu
+	terrain="mountain"
+	culture="ellipian"
+	religion="elamite_pantheon"
+	trade_goods="steppe_horses"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=2
+	}
+}
+
+6596={ #Akkuddu
+	terrain="mountain_valley"
+	culture="ellipian"
+	religion="elamite_pantheon"
+	trade_goods="cattle"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+6597={ #Emqu
+	terrain="mountain_valley"
+	culture="barran"
+	religion="kassite_pantheon"
+	trade_goods="salt"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+6598={ #Itti
+	terrain="mountain_valley"
+	culture="barran"
+	religion="kassite_pantheon"
+	trade_goods="iron"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+6599={ #Balu
+	terrain="mountain"
+	culture="ellipian"
+	religion="elamite_pantheon"
+	trade_goods="base_metals"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+6622={ #Karkittu
+	terrain="plains"
+	culture="barran"
+	religion="kassite_pantheon"
+	trade_goods="cattle"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=2
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+6623={ #Bitiqtu
+	terrain="plains"
+	culture="barran"
+	religion="kassite_pantheon"
+	trade_goods="stone"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=2
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+6624={ #Kittumu
+	terrain="plains"
+	culture="ellipian"
+	religion="elamite_pantheon"
+	trade_goods="tin"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+6625={ #Kizû
+	terrain="plains"
+	culture="ellipian"
+	religion="elamite_pantheon"
+	trade_goods="wild_game"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=2
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+6626={ #Massu
+	terrain="plains"
+	culture="ellipian"
+	religion="elamite_pantheon"
+	trade_goods="cattle"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=2
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+6627={ #Hashtu
+	terrain="mountain"
+	culture="ellipian"
+	religion="elamite_pantheon"
+	trade_goods="tin"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=2
+	}
+}
+
+6628={ #Sahâtum
+	terrain="mountain"
+	culture="ellipian"
+	religion="elamite_pantheon"
+	trade_goods="precious_metals"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=2
+	}
+}
+
+6629={ #Haltu
+	terrain="mountain"
+	culture="ellipian"
+	religion="elamite_pantheon"
+	trade_goods="base_metals"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=2
+	}
+}
+
+6630={ #Pariangu
+	terrain="plains"
+	culture="ellipian"
+	religion="elamite_pantheon"
+	trade_goods="wild_game"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+6631={ #Pûgu
+	terrain="mountain"
+	culture="ellipian"
+	religion="elamite_pantheon"
+	trade_goods="marble"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=2
+	}
+}
+
+6632={ #Qinîtu
+	terrain="plains"
+	culture="ellipian"
+	religion="elamite_pantheon"
+	trade_goods="base_metals"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+6633={ #Uqurtu
+	terrain="mountain"
+	culture="ellipian"
+	religion="elamite_pantheon"
+	trade_goods="stone"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+6634={ #Tamgirtu
+	terrain="mountain"
+	culture="ellipian"
+	religion="elamite_pantheon"
+	trade_goods="tin"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+6635={ #Zûzu
+	terrain="mountain"
+	culture="ellipian"
+	religion="elamite_pantheon"
+	trade_goods="cattle"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+6636={ #Shutâpûtu
+	terrain="mountain_valley"
+	culture="ellipian"
+	religion="elamite_pantheon"
+	trade_goods="cattle"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+6637={ #Ibbûm
+	terrain="mountain_valley"
+	culture="ellipian"
+	religion="elamite_pantheon"
+	trade_goods="base_metals"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+6638={ #Hubbultu
+	terrain="mountain"
+	culture="ellipian"
+	religion="elamite_pantheon"
+	trade_goods="cattle"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=2
+	}
+}
+
+6639={ #Batqu
+	terrain="mountain"
+	culture="ellipian"
+	religion="elamite_pantheon"
+	trade_goods="marble"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=3
+	}
+}
+
+6640={ #Marubishtu
+	terrain="plains"
+	culture="ellipian"
+	religion="elamite_pantheon"
+	trade_goods="cattle"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city"
+	citizen={
+		amount=3
+	}
+	freemen={
+		amount=7
+	}
+	slaves={
+		amount=4
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+6641={ #Mahîri
+	terrain="plains"
+	culture="harhari"
+	religion="kassite_pantheon"
+	trade_goods="cattle"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=2
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+6642={ #E'iltu
+	terrain="plains"
+	culture="ellipian"
+	religion="elamite_pantheon"
+	trade_goods="precious_metals"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+6643={ #Hadûti
+	terrain="desert_hills"
+	culture="harhari"
+	religion="kassite_pantheon"
+	trade_goods="cattle"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+6644={ #Habbulu
+	terrain="plains"
+	culture="harhari"
+	religion="kassite_pantheon"
+	trade_goods="cattle"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+6645={ #Gubbu
+	terrain="hills"
+	culture="harhari"
+	religion="kassite_pantheon"
+	trade_goods="steppe_horses"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=2
+	}
+}
+

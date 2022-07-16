@@ -1,328 +1,202 @@
 ﻿namespace = ia_startup
 
-ia_startup.1 = { #Mesopotamia
+ia_startup.1 = { #Akkadians
     type = country_event
     title = ia_startup.1.t
     desc = ia_startup.1.desc
     picture = welcome_1
     
-    left_portrait = c:ADZ.current_ruler
-    left_portrait = c:ABP.current_ruler
-	right_portrait = c:JAA.current_ruler
-	right_portrait = c:JAB.current_ruler
+    left_portrait = c:AAC.current_ruler
+    left_portrait = c:ABE.current_ruler
 
     trigger = {
-		OR = {
-			country_culture_group = akkadian
-			country_culture_group = aramaic
-			country_culture_group = synaic
-		}
+		country_culture_group = akkadian
     }
 	
     option = {    
         name = ia_startup.1.a
 		hidden_effect = {
-			#Babylonian claims		
-			c:ABK = { every_owned_province = { add_claim = c:ADZ } }
-			c:ABE = { every_owned_province = { add_claim = c:ADZ } }
-			c:ABR = { every_owned_province = { add_claim = c:ADZ } }
-			c:ABD = { every_owned_province = { add_claim = c:ADZ } }
-			c:ABC = { every_owned_province = { add_claim = c:ADZ } }
-			c:ABA = { every_owned_province = { add_claim = c:ADZ } }
-			c:ABH = { every_owned_province = { add_claim = c:ADZ } }
-			c:ABL = { every_owned_province = { add_claim = c:ADZ } }
-			c:ABI = { every_owned_province = { add_claim = c:ADZ } }
-			c:ABJ = { every_owned_province = { add_claim = c:ADZ } }
-			c:ACS = { every_owned_province = { add_claim = c:ADZ } }
-			c:ACT = { every_owned_province = { add_claim = c:ADZ } }
-			c:ACR = { every_owned_province = { add_claim = c:ADZ } }
-			#Karduniash claims
-			c:ADZ = { every_owned_province = { add_claim = c:ABK } }
-			c:ABE = { every_owned_province = { add_claim = c:ABK } }
-			c:ABR = { every_owned_province = { add_claim = c:ABK } }
-			c:ABD = { every_owned_province = { add_claim = c:ABK } }
-			c:ABC = { every_owned_province = { add_claim = c:ABK } }
-			c:ABA = { every_owned_province = { add_claim = c:ABK } }
-			c:ABH = { every_owned_province = { add_claim = c:ABK } }
-			c:ABL = { every_owned_province = { add_claim = c:ABK } }
-			c:ABI = { every_owned_province = { add_claim = c:ABK } }
-			c:ABJ = { every_owned_province = { add_claim = c:ABK } }
-			c:ACS = { every_owned_province = { add_claim = c:ABK } }
-			c:ACT = { every_owned_province = { add_claim = c:ABK } }
-			c:ACR = { every_owned_province = { add_claim = c:ABK } }
-			#Assyrian claims
-			c:ADZ = { every_owned_province = { add_claim = c:ABP } }
-			c:ABE = { every_owned_province = { add_claim = c:ABP } }
-			c:ABK = { every_owned_province = { add_claim = c:ABP } }
-			c:ABR = { every_owned_province = { add_claim = c:ABP } }
-			c:ABD = { every_owned_province = { add_claim = c:ABP } }
-			c:ABC = { every_owned_province = { add_claim = c:ABP } }
-			c:ABA = { every_owned_province = { add_claim = c:ABP } }
-			c:ABH = { every_owned_province = { add_claim = c:ABP } }
-			c:ABL = { every_owned_province = { add_claim = c:ABP } }
-			c:ABI = { every_owned_province = { add_claim = c:ABP } }
-			c:ABJ = { every_owned_province = { add_claim = c:ABP } }
-			c:ACS = { every_owned_province = { add_claim = c:ABP } }
-			c:ACT = { every_owned_province = { add_claim = c:ABP } }
-			c:ACR = { every_owned_province = { add_claim = c:ABP } }
-			c:ADY = { every_owned_province = { add_claim = c:ABP } }
-			c:ACZ = { every_owned_province = { add_claim = c:ABP } }
-			c:ACN = { every_owned_province = { add_claim = c:ABP } }
-			c:ADW = { every_owned_province = { add_claim = c:ABP } }
-			c:ABW = { every_owned_province = { add_claim = c:ABP } }
-			c:ABB = { every_owned_province = { add_claim = c:ABP } }
-			c:AAZ = { every_owned_province = { add_claim = c:ABP } }
-			c:AAY = { every_owned_province = { add_claim = c:ABP } }
-			c:ABF = { every_owned_province = { add_claim = c:ABP } }
-			c:ABO = { every_owned_province = { add_claim = c:ABP } }
-			c:AAW = { every_owned_province = { add_claim = c:ABP } }
-			c:AAU = { every_owned_province = { add_claim = c:ABP } }
-			c:AAS = { every_owned_province = { add_claim = c:ABP } }
-			c:AAT = { every_owned_province = { add_claim = c:ABP } }
-			c:AAR = { every_owned_province = { add_claim = c:ABP } }
-			c:AAP = { every_owned_province = { add_claim = c:ABP } }
-			c:AAO = { every_owned_province = { add_claim = c:ABP } }
-			c:ABS = { every_owned_province = { add_claim = c:ABP } }
-			c:HAC = { every_owned_province = { add_claim = c:ABP } }
-			c:AAF = { every_owned_province = { add_claim = c:ABP } }
-			c:AAH = { every_owned_province = { add_claim = c:ABP } }
-			c:AAD = { every_owned_province = { add_claim = c:ABP } }
-			c:HAA = { every_owned_province = { add_claim = c:ABP } }
-			c:AAC = { every_owned_province = { add_claim = c:ABP } }
-			c:AAB = { every_owned_province = { add_claim = c:ABP } }
-			c:AAG = { every_owned_province = { add_claim = c:ABP } }
-			#Jewish civil war
-			c:JAA = { every_owned_province = { add_claim = c:JAB } }
-			c:JBT = { every_owned_province = { add_claim = c:JAB } }
-			c:JAB = { every_owned_province = { add_claim = c:JAA } }
-			c:JBT = { every_owned_province = { add_claim = c:JAA } }
+			#Lost Empire of Assyrians		
+			c:AAI = { every_owned_province = { add_claim = c:AAC } }
+			c:AAN = { every_owned_province = { add_claim = c:AAC } }
+			c:AAH = { every_owned_province = { add_claim = c:AAC } }
+			c:AAD = { every_owned_province = { add_claim = c:AAC } }
+			c:AAE = { every_owned_province = { add_claim = c:AAC } }
+			c:AAT = { every_owned_province = { add_claim = c:AAC } }
+			c:AAO = { every_owned_province = { add_claim = c:AAC } }
+			c:AAM = { every_owned_province = { add_claim = c:AAC } }
+			c:AAR = { every_owned_province = { add_claim = c:AAC } }
+			c:ABT = { every_owned_province = { add_claim = c:AAC } }
+			c:ABR = { every_owned_province = { add_claim = c:AAC } }
+			c:ABP = { every_owned_province = { add_claim = c:AAC } }
+			c:AAF = { every_owned_province = { add_claim = c:AAC } }
+			c:AAG = { every_owned_province = { add_claim = c:AAC } }
+			c:AAP = { every_owned_province = { add_claim = c:AAC } }
+			#Babylonia
+			c:AAA = { every_owned_province = { add_claim = c:ABE } }
+			c:ABE = { every_owned_province = { add_claim = c:AAA } }
+			c:ABJ = { every_owned_province = { add_claim = c:ABE } }
+			c:ABJ = { every_owned_province = { add_claim = c:ABE } }
+			c:ABL = { every_owned_province = { add_claim = c:ABE } }
+			c:ABM = { every_owned_province = { add_claim = c:ABE } }
+			c:ABN = { every_owned_province = { add_claim = c:ABE } }
+			c:ABO = { every_owned_province = { add_claim = c:ABE } }
+			c:ABG = { every_owned_province = { add_claim = c:ABE } }
+			c:ABI = { every_owned_province = { add_claim = c:ABE } }
+			c:AAP = { every_owned_province = { add_claim = c:ABE } }
+			c:AAG = { every_owned_province = { add_claim = c:ABE } }
+			c:AAF = { every_owned_province = { add_claim = c:ABE } }
 		}
     }
 }
 
-ia_startup.2 = { #Egypt
+ia_startup.2 = { #Arameans
     type = country_event
     title = ia_startup.2.t
     desc = ia_startup.2.desc
     picture = welcome_1
-    
-    left_portrait = c:EAA.current_ruler
-	left_portrait = c:EAB.current_ruler
-	left_portrait = c:EAC.current_ruler
-	right_portrait = c:EAG.current_ruler
-	right_portrait = c:EAF.current_ruler
 
     trigger = {
-    	OR = {
-			country_culture_group = kemetic
-			country_culture_group = libyan
-			country_culture_group = nubian
-		}
+		country_culture_group = aramaic
     }
-
+	
     option = {    
         name = ia_startup.2.a
-		hidden_effect = {
-			#Pharoh claims		
-			c:EAC = { every_owned_province = { add_claim = c:EAA } }
-			c:EAB = { every_owned_province = { add_claim = c:EAA } }
-			c:EAG = { every_owned_province = { add_claim = c:EAA } }
-			#Son claims
-			c:EAA = { every_owned_province = { add_claim = c:EAC } }
-			c:EAB = { every_owned_province = { add_claim = c:EAC } }
-			c:EAG = { every_owned_province = { add_claim = c:EAC } }
-			#Priest claims
-			c:EAC = { every_owned_province = { add_claim = c:EAB } }
-			c:EAA = { every_owned_province = { add_claim = c:EAB } }
-			c:EAG = { every_owned_province = { add_claim = c:EAB } }
-		}
     }
 }
 
-ia_startup.3 = { #Kanaan and Phoenicia
+ia_startup.3 = { #Jews
     type = country_event
     title = ia_startup.3.t
     desc = ia_startup.3.desc
     picture = welcome_1
-	
-    left_portrait = c:JAL.current_ruler
-	left_portrait = c:JAP.current_ruler
-	right_portrait = c:JAC.current_ruler
-	
-    trigger = {
-    	OR = {
-			country_culture_group = levantine
-			country_culture_group = minoic
-		}
-    }
 
+	right_portrait = c:JAE.current_ruler
+	right_portrait = c:JAO.current_ruler
+
+    trigger = {
+		country_culture_group = synaic
+    }
+	
     option = {    
         name = ia_startup.3.a
     }
 }
 
-ia_startup.4 = { #Saba and Damot
+ia_startup.4 = { #Egyptians
     type = country_event
     title = ia_startup.4.t
     desc = ia_startup.4.desc
     picture = welcome_1
     
-    left_portrait = c:KAE.current_ruler
-	right_portrait = c:KAF.current_ruler
+    left_portrait = c:EAJ.current_ruler
+	left_portrait = c:EAH.current_ruler
+	left_portrait = c:EAG.current_ruler
+	right_portrait = c:EAI.current_ruler
+	right_portrait = c:EAK.current_ruler
 
     trigger = {
-    	OR = {
-			country_culture_group = axumitic
-			country_culture_group = arabian
-		}
+		country_culture_group = kemetic
     }
 
     option = {    
         name = ia_startup.4.a
+		hidden_effect = {
+			#Rebel claims		
+			c:EAJ = { every_owned_province = { add_claim = c:EAI } }
+		}
     }
 }
 
-ia_startup.5 = { #Caucasus Region
+ia_startup.5 = { #Libyans
     type = country_event
     title = ia_startup.5.t
     desc = ia_startup.5.desc
     picture = welcome_1
 
     trigger = {
-    	OR = {
-			country_culture_group = caucasic
-			country_culture_group = hazzian
-			country_culture_group = hurric
-		}
+		country_culture_group = libyan
     }
-
+	
     option = {    
         name = ia_startup.5.a
     }
 }
 
-ia_startup.6 = { #Zagros Mountains
+ia_startup.6 = { #Nubians
     type = country_event
     title = ia_startup.6.t
     desc = ia_startup.6.desc
     picture = welcome_1
-    
-	left_portrait = c:ABR.current_ruler
-    left_portrait = c:ABY.current_ruler
 
     trigger = {
-    	OR = {
-			country_culture_group = kassites
-			country_culture_group = elamitic
-		}
+		country_culture_group = nubian
     }
-
+	
     option = {    
         name = ia_startup.6.a
     }
 }
 
-ia_startup.7 = { #Iranian Platau
+ia_startup.7 = { #Canaanites
     type = country_event
     title = ia_startup.7.t
     desc = ia_startup.7.desc
     picture = welcome_1
-    
-    left_portrait = c:PAJ.current_ruler
-
+	
+    left_portrait = c:JBK.current_ruler
+	left_portrait = c:JBG.current_ruler
+	
     trigger = {
-    	OR = {
-			country_culture_group = iranic
-			country_culture_group = eiranic
-		}
+		country_culture_group = levantine
     }
 
     option = {    
         name = ia_startup.7.a
-		hidden_effect = {
-			#Mighty Medes		
-			c:PAD = { every_owned_province = { add_claim = c:PAG } }
-			c:PAB = { every_owned_province = { add_claim = c:PAG } }
-			#Rise of Persia		
-			c:VCK = { every_owned_province = { add_claim = c:PAJ } }
-		}
     }
 }
 
-ia_startup.8 = { #Eurasian Steppes
+ia_startup.8 = { #Pelasgians
     type = country_event
     title = ia_startup.8.t
     desc = ia_startup.8.desc
     picture = welcome_1
 
     trigger = {
-    	OR = {
-			country_culture_group = scythic
-			country_culture_group = tocharian
-		}
+		country_culture_group = minoic
     }
-
+	
     option = {    
         name = ia_startup.8.a
-		hidden_effect = {
-			#Scythian expansion		
-			c:PDL = { every_owned_province = { add_claim = c:PDS } }
-			c:PDM = { every_owned_province = { add_claim = c:PDS } }
-			c:PDH = { every_owned_province = { add_claim = c:PDS } }
-			c:DAK = { every_owned_province = { add_claim = c:PDS } }
-			c:DAL = { every_owned_province = { add_claim = c:PDS } }
-			c:DAN = { every_owned_province = { add_claim = c:PDS } }
-		}
     }
 }
 
-ia_startup.9 = { #Anatolia and Thrace
+ia_startup.9 = { #Dilmun and Magan
     type = country_event
     title = ia_startup.9.t
     desc = ia_startup.9.desc
     picture = welcome_1
     
-    left_portrait = c:HAT.current_ruler
-	right_portrait = c:HCM.current_ruler
+    left_portrait = c:AAW.current_ruler
+	right_portrait = c:ABD.current_ruler
 
     trigger = {
-    	OR = {
-			country_culture_group = hattian
-			country_culture_group = luwian
-			country_culture_group = thracianic
-		}
+		country_culture_group = arabian
     }
 
     option = {    
         name = ia_startup.9.a
-		hidden_effect = {
-			#Gordion claims		
-			c:HAY = { every_owned_province = { add_claim = c:HAT } }
-			c:HAZ = { every_owned_province = { add_claim = c:HAT } }
-			c:HBA = { every_owned_province = { add_claim = c:HAT } }
-			c:HBN = { every_owned_province = { add_claim = c:HAT } }
-			c:HAW = { every_owned_province = { add_claim = c:HAT } }
-			c:HAU = { every_owned_province = { add_claim = c:HAT } }
-			#Lydian claims	
-			c:HDC = { every_owned_province = { add_claim = c:HCM } }
-		}
     }
 }
 
-ia_startup.10 = { #Greece
+ia_startup.10 = { #Hurrians
     type = country_event
     title = ia_startup.10.t
     desc = ia_startup.10.desc
     picture = welcome_1
-    
-    left_portrait = c:GAA.current_ruler
-	left_portrait = c:GAA.current_co_ruler
-	right_portrait = c:TBY.current_ruler
 
     trigger = {
-    	OR = {
-			country_culture_group = grekoid
-		}
+		country_culture_group = hurric
     }
 
     option = {    
@@ -330,18 +204,16 @@ ia_startup.10 = { #Greece
     }
 }
 
-ia_startup.11 = { #Italy
+ia_startup.11 = { #Elamites
     type = country_event
     title = ia_startup.11.t
     desc = ia_startup.11.desc
     picture = welcome_1
+    
+	left_portrait = c:AAB.current_ruler
 
     trigger = {
-    	OR = {
-			country_culture_group = italic
-			country_culture_group = thyrrenic
-			country_culture_group = liguric
-		}
+		country_culture_group = elamitic
     }
 
     option = {    
@@ -349,18 +221,14 @@ ia_startup.11 = { #Italy
     }
 }
 
-ia_startup.12 = { #Illyrians and Nuragians
+ia_startup.12 = { #Kassites
     type = country_event
     title = ia_startup.12.t
     desc = ia_startup.12.desc
     picture = welcome_1
 
     trigger = {
-    	OR = {
-			country_culture_group = illyric
-			country_culture_group = castelic
-			country_culture_group = occidental
-		}
+		country_culture_group = kassites
     }
 
     option = {    
@@ -368,19 +236,16 @@ ia_startup.12 = { #Illyrians and Nuragians
     }
 }
 
-ia_startup.13 = { #Iberia
+ia_startup.13 = { #Luwians
     type = country_event
     title = ia_startup.13.t
     desc = ia_startup.13.desc
     picture = welcome_1
     
-    left_portrait = c:SAA.current_ruler
+    left_portrait = c:HAD.current_ruler
 
     trigger = {
-    	OR = {
-			country_culture_group = bosquian
-			country_culture_group = iberic
-		}
+		country_culture_group = luwian
     }
 
     option = {    
@@ -388,18 +253,14 @@ ia_startup.13 = { #Iberia
     }
 }
 
-ia_startup.14 = { #Celts
+ia_startup.14 = { #Thracians
     type = country_event
     title = ia_startup.14.t
     desc = ia_startup.14.desc
     picture = welcome_1
 
     trigger = {
-    	OR = {
-			country_culture_group = celtic
-			country_culture_group = bakeric
-			country_culture_group = nbaker
-		}
+		country_culture_group = thracianic
     }
 
     option = {    
@@ -407,18 +268,18 @@ ia_startup.14 = { #Celts
     }
 }
 
-ia_startup.15 = { #Northerners
+ia_startup.15 = { #Greece
     type = country_event
     title = ia_startup.15.t
     desc = ia_startup.15.desc
     picture = welcome_1
+    
+    left_portrait = c:GAM.current_ruler
+	left_portrait = c:GAM.current_co_ruler
+	right_portrait = c:GBO.current_ruler
 
     trigger = {
-    	OR = {
-			country_culture_group = barbaric
-			country_culture_group = venedi
-			country_culture_group = baltian
-		}
+		country_culture_group = grekoid
     }
 
     option = {    
@@ -426,21 +287,14 @@ ia_startup.15 = { #Northerners
     }
 }
 
-ia_startup.16 = { #Vedic and Dravidan tribes
+ia_startup.16 = { #Illyrians
     type = country_event
     title = ia_startup.16.t
     desc = ia_startup.16.desc
     picture = welcome_1
-    
-	left_portrait = c:VAO.current_ruler
-	left_portrait = c:RDS.current_ruler
-	left_portrait = c:VBA.current_ruler
 
     trigger = {
-    	OR = {
-			country_culture_group = vedic
-			country_culture_group = dravidic
-		}
+		country_culture_group = illyric
     }
 
     option = {    
@@ -448,40 +302,17 @@ ia_startup.16 = { #Vedic and Dravidan tribes
     }
 }
 
-ia_startup.17 = { #Himalayas
+ia_startup.17 = { #Shardana
     type = country_event
     title = ia_startup.17.t
     desc = ia_startup.17.desc
     picture = welcome_1
-    
-    left_portrait = c:B27.current_ruler
 
     trigger = {
-    	OR = {
-			country_culture_group = qiang
-		}
+		country_culture_group = occidental
     }
 
     option = {    
         name = ia_startup.17.a
-    }
-}
-
-ia_startup.18 = { #Srilanka
-    type = country_event
-    title = ia_startup.18.t
-    desc = ia_startup.18.desc
-    picture = welcome_1
-    
-    left_portrait = c:R01.current_ruler
-
-    trigger = {
-    	OR = {
-			country_culture_group = veddic
-		}
-    }
-
-    option = {    
-        name = ia_startup.18.a
     }
 }

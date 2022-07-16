@@ -60,6 +60,7 @@
 		susanian = {}
 		awanic = {}
 		anshanian = {}
+		huhnuri = {}
 		ellipian = {}
 	}
 	
@@ -69,6 +70,6 @@
 	
 	graphical_culture = persian_gfx
 	ethnicities = {
-		10 = persian
+		10 = elamite
 	}
 }

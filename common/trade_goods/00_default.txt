@@ -47,23 +47,7 @@ iron = { #119 territories
 	color = hsv { 0.0 0.0 0.11 }
 }
 
-tin = { #199 territories
-	category = 0
-	
-	gold = 0.5
-	
-	province = {
-		local_tax_modifier = 0.05
-	}
-	country = {
-		global_freemen_output = 0.02
-		global_slaves_output = 0.02
-	} 
-	
-	color = hsv { 0.0 0.0 0.0 }
-}
-
-base_metals = { #199 territories #copper
+base_metals = { #copper
 	category = 0
 
 	gold = 0.25
@@ -83,7 +67,6 @@ base_metals = { #199 territories #copper
 
 horses = { #276 territories
 	category = 0
-	allow_unit_type = chariot_heavy
 	allow_unit_type = chariot_light
 	
 	gold = 0.25

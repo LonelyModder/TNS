@@ -1,7 +1,7 @@
 ﻿akkadian = {	
 	color = hsv { 0.99 0.1 0.11 }
 
-	primary = chariot_heavy
+	primary = chariot_light
 	second = light_swordsmen
 	flank = cavalry_horse_archers
 
@@ -35,15 +35,15 @@
 	culture = {
 		agade = {levy_template = levy_sonsofMarduk} #Akkadian
 		ashurite = {}	#Assyrian
-		dilmunite = {levy_template = levy_sonsofdilmun}	#Dilmunite
+		istarite = {levy_template = levy_sonsofMarduk}
 	}
 	
 	barbarian_names = { 
 		ELYMAEI CHALDAEI RHAMBAIOI KARDUCHOI GARAMAIOI
 	}
 	
-	graphical_culture = carthaginian_gfx
+	graphical_culture = persian_gfx
 	ethnicities = {
-		10 = persian
+		10 = akkadian
 	}
 }

@@ -25,16 +25,26 @@
 	}
 	culture = {
 		kassite = {}
-		lullubian = {}
+		namaric = {}
+		hambanese = {}
+		halmanite = {}
+		gannanatan = {}
 		parsuan = {}
+		barran = {}
+		harhari = {}
+		arashtuan = {}
+		amekan = {}
+		dagaran = {}
+		ahazan = {}
+		arragdan = {}
 	}
 	
 	barbarian_names = { 
 		ELYMAEI CHALDAEI RHAMBAIOI KARDUCHOI GARAMAIOI
 	}
 	
-	graphical_culture = arabian_gfx
+	graphical_culture = mesopotamian_gfx
 	ethnicities = {
-		10 = persian
+		10 = gutian
 	}
 }

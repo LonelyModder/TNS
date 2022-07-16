@@ -5,10 +5,26 @@
 		
 		potential = {
 			OR = {
-				primary_culture = caphtorite
-				primary_culture = philistine
-				primary_culture = cypro_minoic
-				primary_culture = laconic
+				country_culture_group = minoic
+				primary_culture = itanosian
+				primary_culture = hierapytnan
+				primary_culture = latonian
+				primary_culture = drerosi
+				primary_culture = chersonesian
+				primary_culture = knossian
+				primary_culture = rhytian
+				primary_culture = gortynian
+				primary_culture = phaistian
+				primary_culture = koumasan
+				primary_culture = eleuthernan
+				primary_culture = armenaian
+				primary_culture = apteran
+				primary_culture = kydonian
+				primary_culture = tarran
+				primary_culture = elyran
+				primary_culture = kissamian
+				primary_culture = phalasarnan
+				primary_culture = axian
 			}
 			#is_tribal = yes
 			NOT = {
@@ -22,7 +38,7 @@
 		
 		highlight = {
 			scope:province = {
-				is_in_area = crete_area
+				is_in_region = crete_region
 			}
 		}
 		
@@ -36,7 +52,7 @@
 				}
 			}
 			can_form_nation_trigger = yes
-			owns_area = crete_area
+			owns_region = crete_region
 		}
 		
 		effect = {
@@ -61,24 +77,24 @@
 				limit = {
 					NOT = {
 						capital_scope = {
-							province_id = 358
+							province_id = 1090
 						}
 					}
 				}
-				set_capital = 358
+				set_capital = 1090
 				hidden_effect = {
-					p:358.state = {
-						set_state_capital = 358
+					p:1090.state = {
+						set_state_capital = 1090
 					}
 				}
 			}
-			p:358 = {
+			p:1090 = {
 				if = {
 					limit = { has_city_status = no }
 					set_city_status = city
 				}
 			}
-			p:358 = {
+			p:1090 = {
 				capital_formable_medium_effect = yes
 				formable_capital_modifier_normal_effect = yes
 			}

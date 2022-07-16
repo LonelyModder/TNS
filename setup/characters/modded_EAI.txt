@@ -1,0 +1,98 @@
+﻿"EAI"={
+	country="EAI"
+	13={
+		first_name="Shosqenq"
+		family = c:EAI.fam:Shosqenq-Shu
+		birth_date=1200.1.1
+		death_date=1280.1.1
+		culture="ma"
+		religion="kemetic_pantheon"
+		no_stats=yes
+		add_martial=7
+		add_charisma=10
+		add_finesse=2
+		add_zeal=2
+		no_traits=yes
+		add_trait="22dynastys"
+		#dna=""
+	}
+	
+	14={
+		first_name="Mehitusechet"
+		female=yes
+		birth_date=1200.1.1
+		death_date=1280.1.1
+		culture="ma"
+		religion="kemetic_pantheon"
+		no_stats=yes
+		add_martial=2
+		add_charisma=4
+		add_finesse=8
+		add_zeal=8
+		no_traits=yes
+		#dna=""
+	}
+	
+	15={
+		first_name="Osorkon"
+		nickname="NICKNAME_ELDER"
+		family = c:EAI.fam:Shosqenq-Shu
+		father="char:13"
+		mother="char:14"
+		birth_date=1240.1.1
+		culture="ma"
+		religion="kemetic_pantheon"
+		no_stats=yes
+		add_martial=7
+		add_charisma=10
+		add_finesse=2
+		add_zeal=2
+		no_traits=yes
+		add_trait="22dynastys"
+		add_gold=500
+		add_popularity=100
+		c:EAI={
+			set_as_ruler=char:15
+		}
+		#dna=""
+	}
+	
+	16={
+		first_name="Pentreshnes"
+		female=yes
+		birth_date=1240.1.1
+		culture="ma"
+		religion="kemetic_pantheon"
+		no_stats=yes
+		add_martial=2
+		add_charisma=4
+		add_finesse=8
+		add_zeal=8
+		no_traits=yes
+		add_gold=500
+		add_popularity=100
+		marry_character=char:15
+		#dna=""
+	}
+	
+	17={
+		first_name="Katimala"
+		female=yes
+		family = c:EAI.fam:Shosqenq-Shu
+		father="char:15"
+		mother="char:16"
+		birth_date=1270.1.1
+		culture="ma"
+		religion="kemetic_pantheon"
+		no_stats=yes
+		add_martial=6
+		add_charisma=3
+		add_finesse=8
+		add_zeal=3
+		no_traits=yes
+		add_trait="22dynastys"
+		add_gold=500
+		add_popularity=100
+		#dna=""
+	}
+}

@@ -5,10 +5,20 @@
 		
 		potential = {
 			OR = {
-				primary_culture = hatti
-				primary_culture = hatti_aramean
-				primary_culture = paphlagonic
-			}
+				primary_culture = hamathite
+				primary_culture = lukhutic
+				primary_culture = arpadic
+				primary_culture = patinite
+				primary_culture = khillikite
+				primary_culture = musuwaric
+				primary_culture = gurgumite
+				primary_culture = kummukhite
+				primary_culture = karkamisan
+				AND = {
+					country_culture_group = aramaic
+					religion = luwic_pantheon
+				}
+			}	
 			#is_tribal = yes
 			NOT = {
 				tag = XHI
@@ -22,28 +32,20 @@
 		highlight = {
 			scope:province = {
 				OR = {
-					province_id = 777 #Hamath
-					province_id = 7985 #Lukhuti
-					province_id = 812 #Sam'al
-					province_id = 808 #Bit-Agusi
-					province_id = 810 #Musuwari
-					province_id = 790 #Pattina
-					province_id = 811 #Ya'udi
-					province_id = 809 #Karkemish
-					province_id = 1869 #Shugab
-					province_id = 1867 #Gurgum
-					province_id = 1878 #Ishunda
-					province_id = 172 #Tabal
-					province_id = 1898 #Kammanu
-					province_id = 836 #Kummukh
-					province_id = 1854 #Melid
-					province_id = 1803 #Shinukta
-					province_id = 1796 #Atun
-					province_id = 1982 #Khillika
-					province_id = 1951 #Khupan
-					province_id = 1940 #Khupsina
-					province_id = 1805 #Kanesh
-					province_id = 1825 #Capital
+					province_id = 4378 
+					province_id = 4332
+					province_id = 3633
+					province_id = 4342
+					province_id = 4442
+					province_id = 4356
+					province_id = 3378
+					province_id = 3368
+					province_id = 3480
+					province_id = 3569
+					province_id = 3509 
+					province_id = 3674
+					province_id = 3688
+					province_id = 4362
 				}
 			}
 		}
@@ -58,28 +60,20 @@
 				}
 			}
 			can_form_nation_trigger = yes
-			owns = 777 #Hamath
-			owns = 7985 #Lukhuti
-			owns = 812 #Sam'al
-			owns = 808 #Bit-Agusi
-			owns = 810 #Musuwari
-			owns = 790 #Pattina
-			owns = 811 #Ya'udi
-			owns = 809 #Karkemish
-			owns = 1869 #Shugab
-			owns = 1867 #Gurgum
-			owns = 1878 #Ishunda
-			owns = 172 #Tabal
-			owns = 1898 #Kammanu
-			owns = 836 #Kummukh
-			owns = 1854 #Melid
-			owns = 1803 #Shinukta
-			owns = 1796 #Atun
-			owns = 1982 #Khillika
-			owns = 1951 #Khupan
-			owns = 1940 #Khupsina
-			owns = 1805 #Kanesh
-			owns = 1825 #Capital
+			owns = 4378 
+			owns = 4332
+			owns = 3633
+			owns = 4342
+			owns = 4442
+			owns = 4356
+			owns = 3378
+			owns = 3368 
+			owns = 3480
+			owns = 3569
+			owns = 3509 
+			owns = 3674
+			owns = 3688
+			owns = 4362
 		}
 		
 		effect = {
@@ -104,24 +98,24 @@
 				limit = {
 					NOT = {
 						capital_scope = {
-							province_id = 1825
+							province_id = 4362
 						}
 					}
 				}
-				set_capital = 1825
+				set_capital = 4362
 				hidden_effect = {
-					p:1825.state = {
-						set_state_capital = 1825
+					p:4362.state = {
+						set_state_capital = 4362
 					}
 				}
 			}
-			p:1825 = {
+			p:4362 = {
 				if = {
 					limit = { has_city_status = no }
 					set_city_status = city
 				}
 			}
-			p:1825 = {
+			p:4362 = {
 				capital_formable_medium_effect = yes
 				formable_capital_modifier_normal_effect = yes
 			}

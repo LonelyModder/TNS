@@ -5,9 +5,18 @@
 		
 		potential = {
 			OR = {
-				primary_culture = cypriotic
-				primary_culture = cypro_minoic
-				primary_culture = greek_punic
+				primary_culture = paphosic
+				primary_culture = marionic
+				primary_culture = soloian
+				primary_culture = tamassosian
+				primary_culture = idalionic
+				primary_culture = ladraic
+				primary_culture = lapithosian
+				primary_culture = chytroic
+				primary_culture = salamian
+				primary_culture = kourionian
+				primary_culture = kitionian
+				primary_culture = eteocypriot
 			}
 			#is_tribal = yes
 			NOT = {
@@ -21,7 +30,16 @@
 		
 		highlight = {
 			scope:province = {
-				is_in_area = cyprus_area
+				is_in_area = amorosa_area
+				is_in_area = kouklia_area
+				is_in_area = vouni_area
+				is_in_area = kalabasos_area
+				is_in_area = philia_area
+				is_in_area = vounous_area
+				is_in_area = ledra_area
+				is_in_area = akhna_area
+				is_in_area = alasiya_area
+				is_in_area = rialonsa_area
 			}
 		}
 		
@@ -35,7 +53,16 @@
 				}
 			}
 			can_form_nation_trigger = yes
-			owns_area = cyprus_area
+			owns_area = amorosa_area
+			owns_area = kouklia_area
+			owns_area = vouni_area
+			owns_area = kalabasos_area
+			owns_area = philia_area
+			owns_area = vounous_area
+			owns_area = ledra_area
+			owns_area = akhna_area
+			owns_area = alasiya_area
+			owns_area = rialonsa_area
 		}
 		
 		effect = {
@@ -43,15 +70,24 @@
 			if = {
 					limit = {
 						OR = {
-							primary_culture = cypriotic
-							primary_culture = greek_punic
+							primary_culture = paphosic
+							primary_culture = marionic
+							primary_culture = soloian
+							primary_culture = tamassosian
+							primary_culture = idalionic
+							primary_culture = ladraic
+							primary_culture = lapithosian
+							primary_culture = chytroic
+							primary_culture = salamian
+							primary_culture = kourionian
+							primary_culture = kitionian
 						}
 					}
 					change_country_name = "Alasya1_Name"
 			}
 			if = {
 					limit = {
-						primary_culture = cypro_minoic
+						primary_culture = eteocypriot
 					}
 					change_country_name = "Alasya2_Name"
 			}
@@ -68,42 +104,36 @@
 			hidden_effect = {
 				if = {
 					limit = {
-						primary_culture = cypriotic
-						primary_culture = greek_punic
+						primary_culture = paphosic
+						primary_culture = marionic
+						primary_culture = soloian
+						primary_culture = tamassosian
+						primary_culture = idalionic
+						primary_culture = ladraic
+						primary_culture = lapithosian
+						primary_culture = chytroic
+						primary_culture = salamian
+						primary_culture = kourionian
+						primary_culture = kitionian
 					}
 					change_country_adjective = "Alasya1_ADJ"
 				}
 				if = {
 					limit = {
-						primary_culture = cypro_minoic
+						primary_culture = eteocypriot
 					}
 					change_country_adjective = "Alasya2_ADJ"
 				}
 				change_country_color =  "alasya_color"
 				change_country_tag = XCP
 			}
-			if = {
-				limit = {
-					NOT = {
-						capital_scope = {
-							province_id = 331
-						}
-					}
-				}
-				set_capital = 331
-				hidden_effect = {
-					p:331.state = {
-						set_state_capital = 331
-					}
-				}
-			}
-			p:331 = {
+			capital_scope = {
 				if = {
 					limit = { has_city_status = no }
 					set_city_status = city
 				}
 			}
-			p:331 = {
+			capital_scope = {
 				capital_formable_medium_effect = yes
 				formable_capital_modifier_normal_effect = yes
 			}

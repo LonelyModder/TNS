@@ -1,0 +1,49 @@
+﻿# INSTRUCTIONS:
+# -------------
+# conquer_cost = cost of taking provinces
+#
+# WAR GOAL TYPES:
+#	- take_province
+#	- naval_superiority
+#	- superiority					#If conquer cost in superiority wars is less than 0, AI will always try and select.
+#	- enforce_military_access
+#	- independence
+# --------------------------------------------------------------
+
+event_conquest_wargoal = {
+	type = take_province #superiority
+	#uses_civil_war_conquest = yes
+	allow = { #Will this show up in the declare war window.
+		is_subject = no
+		has_variable = king_of_kings #Turns on after the intro event which explains what it does.
+	}
+	
+	attacker = {
+		conquer_cost = -0.99
+	}
+	defender = {
+		conquer_cost = -0.99
+	}
+	ticking_war_score = 1
+
+}
+
+demands_of_ashur_wargoal = {
+	type = take_province #superiority
+	#uses_civil_war_conquest = yes
+	allow = { #Will this show up in the declare war window.
+		is_subject = no
+		AND = {
+			has_deity_in_pantheon = deity:omen_mashshur
+			deity:omen_mashshur = { has_holy_site = yes }
+		}
+	}
+	
+	attacker = {
+		conquer_cost = -0.90
+	}
+	defender = {
+	}
+	ticking_war_score = 1
+
+}

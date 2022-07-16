@@ -1,0 +1,997 @@
+﻿3397={ #Kus-ri
+	terrain="plains"
+	culture="kizzuwi"
+	religion="luwic_pantheon"
+	trade_goods="cattle"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+3398={ #Pab-ese
+	terrain="farmland"
+	culture="kizzuwi"
+	religion="luwic_pantheon"
+	trade_goods="saffron"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=6
+	}
+	slaves={
+		amount=2
+	}
+}
+
+3420={ #Shum-ri-ta
+	terrain="forest"
+	culture="kizzuwi"
+	religion="luwic_pantheon"
+	trade_goods="wood"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+3421={ #Pab-ri
+	terrain="plains"
+	culture="kizzuwi"
+	religion="luwic_pantheon"
+	trade_goods="grain"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+3422={ #Suye-usi
+	terrain="plains"
+	culture="kizzuwi"
+	religion="luwic_pantheon"
+	trade_goods="hemp"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+3424={ #Un-ar-ri
+	terrain="plains"
+	culture="kizzuwi"
+	religion="luwic_pantheon"
+	trade_goods="cattle"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+3425={ #Kudu-ri
+	terrain="plains"
+	culture="kizzuwi"
+	religion="luwic_pantheon"
+	trade_goods="leather"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+3426={ #Ul-kudu
+	terrain="hills"
+	culture="kizzuwi"
+	religion="luwic_pantheon"
+	trade_goods="cattle"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+3427={ #Fasi-ri
+	terrain="mountain_valley"
+	culture="kizzuwi"
+	religion="luwic_pantheon"
+	trade_goods="fur"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+3428={ #Neyer-al
+	terrain="hills"
+	culture="kizzuwi"
+	religion="luwic_pantheon"
+	trade_goods="wild_game"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+3429={ #Nui-payi
+	terrain="farmland"
+	culture="kizzuwi"
+	religion="luwic_pantheon"
+	trade_goods="cattle"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=5
+	}
+	slaves={
+		amount=2
+	}
+}
+
+3430={ #Si-tiye
+	terrain="hills"
+	culture="kizzuwi"
+	religion="luwic_pantheon"
+	trade_goods="olive"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+3431={ #Bandi-ri
+	terrain="hills"
+	culture="kizzuwi"
+	religion="luwic_pantheon"
+	trade_goods="fruits"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+3432={ #Suye-si
+	terrain="hills"
+	culture="kizzuwi"
+	religion="luwic_pantheon"
+	trade_goods="cattle"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=2
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+3433={ #Zaruna
+	terrain="hills"
+	culture="azitawatan"
+	religion="luwic_pantheon"
+	trade_goods="olive"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city"
+	citizen={
+		amount=3
+	}
+	freemen={
+		amount=5
+	}
+	slaves={
+		amount=2
+	}
+}
+
+3434={ #Xill-ri
+	terrain="plains"
+	culture="kizzuwi"
+	religion="luwic_pantheon"
+	trade_goods="earthware"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+3436={ #Isena
+	terrain="plains"
+	culture="kizzuwi"
+	religion="luwic_pantheon"
+	trade_goods="cattle"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=5
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3437={ #Kusuy
+	terrain="forest"
+	culture="kizzuwi"
+	religion="luwic_pantheon"
+	trade_goods="earthware"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=2
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+3438={ #Simigi
+	terrain="forest"
+	culture="azitawatan"
+	religion="luwic_pantheon"
+	trade_goods="wood"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+3439={ #Puxxi
+	terrain="mountain"
+	culture="azitawatan"
+	religion="luwic_pantheon"
+	trade_goods="tin"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=3
+	}
+}
+
+3440={ #Irde-uri
+	terrain="mountain"
+	culture="azitawatan"
+	religion="luwic_pantheon"
+	trade_goods="tin"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=3
+	}
+}
+
+3441={ #Ase-uzi
+	terrain="mountain"
+	culture="azitawatan"
+	religion="luwic_pantheon"
+	trade_goods="fur"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+3442={ #Sini-asxe
+	terrain="forest"
+	culture="kizzuwi"
+	religion="luwic_pantheon"
+	trade_goods="wood"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+3443={ #Niga-le
+	terrain="mountain"
+	culture="kizzuwi"
+	religion="luwic_pantheon"
+	trade_goods="wild_game"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=3
+	}
+}
+
+3444={ #Kiga
+	terrain="mountain"
+	culture="gurgumite"
+	religion="luwic_pantheon"
+	trade_goods="base_metals"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=3
+	}
+}
+
+3445={ #Sua-llu
+	terrain="mountain"
+	culture="gurgumite"
+	religion="luwic_pantheon"
+	trade_goods="iron"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=3
+	}
+}
+
+3449={ #Inna-sini
+	terrain="hills"
+	culture="kizzuwi"
+	religion="luwic_pantheon"
+	trade_goods="stone"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+3450={ #Undu-te-u
+	terrain="hills"
+	culture="kizzuwi"
+	religion="luwic_pantheon"
+	trade_goods="cattle"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+3451={ #Ai-inna
+	terrain="farmland"
+	culture="dannien"
+	religion="grecoid_pantheon"
+	trade_goods="wine"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city"
+	citizen={
+		amount=3
+	}
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+3452={ #Tumni-ri
+	terrain="plains"
+	culture="kizzuwi"
+	religion="luwic_pantheon"
+	trade_goods="cattle"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+3453={ #Arusna
+	terrain="farmland"
+	culture="kizzuwi"
+	religion="luwic_pantheon"
+	trade_goods="stone"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city"
+	citizen={
+		amount=4
+	}
+	freemen={
+		amount=6
+	}
+	slaves={
+		amount=2
+	}
+}
+
+3454={ #Apsi-tali
+	terrain="farmland"
+	culture="kizzuwi"
+	religion="luwic_pantheon"
+	trade_goods="wine"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=5
+	}
+	slaves={
+		amount=2
+	}
+}
+
+3457={ #Suye-ri
+	terrain="farmland"
+	culture="kizzuwi"
+	religion="luwic_pantheon"
+	trade_goods="grain"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=5
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+3458={ #Shummi
+	terrain="plains"
+	culture="kizzuwi"
+	religion="luwic_pantheon"
+	trade_goods="cattle"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+3459={ #Tiye-su
+	terrain="hills"
+	culture="kizzuwi"
+	religion="luwic_pantheon"
+	trade_goods="precious_metals"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=2
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+3460={ #Pab-a-ni
+	terrain="plains"
+	culture="kizzuwi"
+	religion="luwic_pantheon"
+	trade_goods="earthware"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=2
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+3461={ #Wayr-usi
+	terrain="hills"
+	culture="kizzuwi"
+	religion="luwic_pantheon"
+	trade_goods="cattle"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=2
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+3462={ #Sawali
+	terrain="mountain_valley"
+	culture="gurgumite"
+	religion="luwic_pantheon"
+	trade_goods="iron"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=2
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+3463={ #Time-ri
+	terrain="marsh"
+	culture="kizzuwi"
+	religion="luwic_pantheon"
+	trade_goods="fur"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=2
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+3465={ #Sal-xiuri
+	terrain="marsh"
+	culture="kizzuwi"
+	religion="luwic_pantheon"
+	trade_goods="reeds"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+3466={ #Lawazantiya
+	terrain="farmland"
+	culture="azitawatan"
+	religion="luwic_pantheon"
+	trade_goods="olive"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city"
+	citizen={
+		amount=4
+	}
+	freemen={
+		amount=6
+	}
+	slaves={
+		amount=2
+	}
+	
+}
+
+3467={ #Sal-mi
+	terrain="farmland"
+	culture="kizzuwi"
+	religion="luwic_pantheon"
+	trade_goods="reeds"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city"
+	citizen={
+		amount=4
+	}
+	freemen={
+		amount=5
+	}
+	slaves={
+		amount=2
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+3468={ #Tari-siwe
+	terrain="plains"
+	culture="kizzuwi"
+	religion="luwic_pantheon"
+	trade_goods="cattle"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=5
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+3469={ #Xiuri
+	terrain="farmland"
+	culture="kizzuwi"
+	religion="luwic_pantheon"
+	trade_goods="grain"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=6
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3471={ #Izziya
+	terrain="farmland"
+	culture="dannien"
+	religion="grecoid_pantheon"
+	trade_goods="saffron"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city"
+	citizen={
+		amount=4
+	}
+	freemen={
+		amount=5
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3472={ #Un-xil
+	terrain="mountain_valley"
+	culture="kizzuwi"
+	religion="luwic_pantheon"
+	trade_goods="stone"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=2
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+3473={ #Naxx-it
+	terrain="hills"
+	culture="kizzuwi"
+	religion="luwic_pantheon"
+	trade_goods="base_metals"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+3474={ #Ul-fur
+	terrain="hills"
+	culture="kizzuwi"
+	religion="luwic_pantheon"
+	trade_goods="wood"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=2
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+3476={ #Neyer-ni
+	terrain="farmland"
+	culture="kizzuwi"
+	religion="luwic_pantheon"
+	trade_goods="grain"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=2
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+3477={ #Kudu-ni
+	terrain="farmland"
+	culture="kizzuwi"
+	religion="luwic_pantheon"
+	trade_goods="grain"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=5
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+3478={ #Ase-nui
+	terrain="plains"
+	culture="kizzuwi"
+	religion="luwic_pantheon"
+	trade_goods="hemp"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+3479={ #Siyi-fasi
+	terrain="hills"
+	culture="kizzuwi"
+	religion="luwic_pantheon"
+	trade_goods="base_metals"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+3480={ #Payi-si
+	terrain="farmland"
+	culture="azitawatan"
+	religion="luwic_pantheon"
+	trade_goods="grain"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city"
+	citizen={
+		amount=4
+	}
+	freemen={
+		amount=8
+	}
+	slaves={
+		amount=6
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+3481={ #Shu-ni
+	terrain="marsh"
+	culture="kizzuwi"
+	religion="luwic_pantheon"
+	trade_goods="leather"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=2
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+3482={ #Ur-nisiyi
+	terrain="hills"
+	culture="kizzuwi"
+	religion="luwic_pantheon"
+	trade_goods="stone"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=2
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+3483={ #Seri
+	terrain="hills"
+	culture="kizzuwi"
+	religion="luwic_pantheon"
+	trade_goods="cattle"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+3484={ #Pahara
+	terrain="hills"
+	culture="gurgumite"
+	religion="luwic_pantheon"
+	trade_goods="wood"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+3485={ #Asxe
+	terrain="mountain_valley"
+	culture="gurgumite"
+	religion="luwic_pantheon"
+	trade_goods="wild_game"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=2
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+3486={ #Tsurgi
+	terrain="mountain_valley"
+	culture="aram_samalite"
+	religion="luwic_pantheon"
+	trade_goods="fur"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+4447={ #Wayri
+	terrain="mountain_valley"
+	culture="kizzuwi"
+	religion="luwic_pantheon"
+	trade_goods="olive"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=2
+	}
+	tribesmen={
+		amount=2
+	}
+}
+

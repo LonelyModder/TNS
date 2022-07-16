@@ -48,19 +48,21 @@
 	}
 
 	culture = {
-		lower_nubian = {}
-		upper_nubian = {}
-		meroitic_nubian = {}
-		south_nubian = {}
-		south_west_nubian = {}
+		kerman = {}
+		saian = {}
+		saseban = {}
+		semnan = {}
+		nehesan = {}
+		haterti = {}
+		nertian = {}
 		medjay = {}
 	}
 	
 	barbarian_names = { GARAMANTES NASSAMONES ASBYSTAE ADYRMACHIDAE GILLIGAMAE AUSCHISAE TROGLODYTAE PSYLLI LAGUATANI MESHWESH }
 	
-	graphical_culture = egyptian_gfx
+	graphical_culture = nubian_gfx
 	
 	ethnicities = {
-		10 = meroitic
+		10 = nubian
 	}
 }

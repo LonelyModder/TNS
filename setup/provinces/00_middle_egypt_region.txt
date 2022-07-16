@@ -1,0 +1,1363 @@
+﻿242={ #Usekt
+	terrain="flood_plain"
+	culture="khmunite"
+	religion="kemetic_pantheon"
+	trade_goods="grain"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=5
+	}
+	slaves={
+		amount=3
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+343={ #Bakhau
+	terrain="flood_plain"
+	culture="khmunite"
+	religion="kemetic_pantheon"
+	trade_goods="leather"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=6
+	}
+	slaves={
+		amount=3
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+394={ #Peter
+	terrain="plains"
+	culture="khmunite"
+	religion="kemetic_pantheon"
+	trade_goods="stone"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+433={ #Pet-mer
+	terrain="flood_plain"
+	culture="khmunite"
+	religion="kemetic_pantheon"
+	trade_goods="leather"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=5
+	}
+	slaves={
+		amount=3
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+459={ #Maar
+	terrain="flood_plain"
+	culture="khmunite"
+	religion="kemetic_pantheon"
+	trade_goods="grain"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=5
+	}
+	slaves={
+		amount=2
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+470={ #Fenti
+	terrain="plains"
+	culture="khmunite"
+	religion="kemetic_pantheon"
+	trade_goods="stone"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+1259={ #Neshem
+	terrain="flood_plain"
+	culture="abdjan"
+	religion="kemetic_pantheon"
+	trade_goods="reeds"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=6
+	}
+	slaves={
+		amount=3
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+1266={ #Neturt
+	terrain="flood_plain"
+	culture="abdjan"
+	religion="kemetic_pantheon"
+	trade_goods="grain"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=6
+	}
+	slaves={
+		amount=3
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+1267={ #Hetepu
+	terrain="flood_plain"
+	culture="abdjan"
+	religion="kemetic_pantheon"
+	trade_goods="reeds"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=6
+	}
+	slaves={
+		amount=3
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+1346={ #Hekeru
+	terrain="flood_plain"
+	culture="abdjan"
+	religion="kemetic_pantheon"
+	trade_goods="cloth"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=5
+	}
+	slaves={
+		amount=3
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+1347={ #Hert-ab
+	terrain="flood_plain"
+	culture="abdjan"
+	religion="kemetic_pantheon"
+	trade_goods="grain"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=6
+	}
+	slaves={
+		amount=3
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+1355={ #Hatatu
+	terrain="flood_plain"
+	culture="abdjan"
+	religion="kemetic_pantheon"
+	trade_goods="grain"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=6
+	}
+	slaves={
+		amount=3
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+1357={ #Haqet
+	terrain="flood_plain"
+	culture="khmunite"
+	religion="kemetic_pantheon"
+	trade_goods="grain"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=6
+	}
+	slaves={
+		amount=2
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+1362={ #Ipu
+	terrain="flood_plain"
+	culture="abdjan"
+	religion="kemetic_pantheon"
+	trade_goods="papyrus"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city"
+	citizen={
+		amount=8
+	}
+	freemen={
+		amount=8
+	}
+	slaves={
+		amount=6
+	}
+	tribesmen={
+		amount=7
+		culture="ma"
+	}
+}
+
+1368={ #Hemaka
+	terrain="flood_plain"
+	culture="khmunite"
+	religion="kemetic_pantheon"
+	trade_goods="grain"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=6
+	}
+	slaves={
+		amount=3
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+1374={ #Tjebu
+	terrain="flood_plain"
+	culture="khmunite"
+	religion="kemetic_pantheon"
+	trade_goods="fruits"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city"
+	citizen={
+		amount=8
+	}
+	freemen={
+		amount=8
+	}
+	slaves={
+		amount=5
+	}
+	tribesmen={
+		amount=1
+	}
+	
+}
+
+1379={ #Henhen
+	terrain="flood_plain"
+	culture="khmunite"
+	religion="kemetic_pantheon"
+	trade_goods="grain"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=6
+	}
+	slaves={
+		amount=3
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+1464={ #Atennu
+	terrain="flood_plain"
+	culture="khmunite"
+	religion="kemetic_pantheon"
+	trade_goods="grain"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=6
+	}
+	slaves={
+		amount=3
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+1511={ #Akat
+	terrain="flood_plain"
+	culture="khmunite"
+	religion="kemetic_pantheon"
+	trade_goods="papyrus"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=6
+	}
+	slaves={
+		amount=3
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+1512={ #Asarba
+	terrain="flood_plain"
+	culture="khmunite"
+	religion="kemetic_pantheon"
+	trade_goods="grain"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=6
+	}
+	slaves={
+		amount=3
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+1532={ #Anetch
+	terrain="flood_plain"
+	culture="khmunite"
+	religion="kemetic_pantheon"
+	trade_goods="cloth"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=5
+	}
+	slaves={
+		amount=3
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+1556={ #Maan-tu
+	terrain="flood_plain"
+	culture="khmunite"
+	religion="kemetic_pantheon"
+	trade_goods="reeds"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=5
+	}
+	slaves={
+		amount=3
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+1581={ #Ahat
+	terrain="flood_plain"
+	culture="khmunite"
+	religion="kemetic_pantheon"
+	trade_goods="fruits"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=6
+	}
+	slaves={
+		amount=3
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+1588={ #Akhtuset
+	terrain="flood_plain"
+	culture="khmunite"
+	religion="kemetic_pantheon"
+	trade_goods="grain"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=6
+	}
+	slaves={
+		amount=3
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+1589={ #Shashotep
+	terrain="flood_plain"
+	culture="khmunite"
+	religion="kemetic_pantheon"
+	trade_goods="fruits"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city"
+	citizen={
+		amount=8
+		culture="ma"
+	}
+	freemen={
+		amount=8
+	}
+	slaves={
+		amount=5
+	}
+	tribesmen={
+		amount=5
+		culture="ma"
+	}
+}
+
+1624={ #Mastu
+	terrain="flood_plain"
+	culture="khmunite"
+	religion="kemetic_pantheon"
+	trade_goods="reeds"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=5
+	}
+	slaves={
+		amount=3
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+1625={ #Heteru
+	terrain="flood_plain"
+	culture="khmunite"
+	religion="kemetic_pantheon"
+	trade_goods="grain"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=6
+	}
+	slaves={
+		amount=3
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+1629={ #Zawty
+	terrain="flood_plain"
+	culture="khmunite"
+	religion="kemetic_pantheon"
+	trade_goods="papyrus"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city"
+	citizen={
+		amount=9
+	}
+	freemen={
+		amount=8
+	}
+	slaves={
+		amount=6
+	}
+	tribesmen={
+		amount=5
+		culture="ma"
+	}
+	holy_site="omen_manubis"
+}
+
+1643={ #Per-Nemty
+	terrain="flood_plain"
+	culture="khmunite"
+	religion="kemetic_pantheon"
+	trade_goods="reeds"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city"
+	freemen={
+		amount=5
+	}
+	slaves={
+		amount=2
+	}
+	tribesmen={
+		amount=8
+		culture="ma"
+	}
+}
+
+1647={ #Badari
+	terrain="flood_plain"
+	culture="khmunite"
+	religion="kemetic_pantheon"
+	trade_goods="reeds"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=5
+	}
+	slaves={
+		amount=3
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+1654={ #Netches
+	terrain="flood_plain"
+	culture="khmunite"
+	religion="kemetic_pantheon"
+	trade_goods="grain"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=6
+	}
+	slaves={
+		amount=3
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+1675={ #Kheper
+	terrain="flood_plain"
+	culture="khmunite"
+	religion="kemetic_pantheon"
+	trade_goods="grain"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=5
+	}
+	slaves={
+		amount=3
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+1760={ #Nehait
+	terrain="plains"
+	culture="khmunite"
+	religion="kemetic_pantheon"
+	trade_goods="salt"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+1762={ #Sept-mast
+	terrain="plains"
+	culture="khmunite"
+	religion="kemetic_pantheon"
+	trade_goods="leather"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+1767={ #Sehetep
+	terrain="plains"
+	culture="abdjan"
+	religion="kemetic_pantheon"
+	trade_goods="fur"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=6
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+1777={ #Uheset
+	terrain="plains"
+	culture="khmunite"
+	religion="kemetic_pantheon"
+	trade_goods="salt"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+1886={ #Akerati
+	terrain="flood_plain"
+	culture="khmunite"
+	religion="kemetic_pantheon"
+	trade_goods="stone"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=2
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+1888={ #Heri-ta
+	terrain="plains"
+	culture="abdjan"
+	religion="kemetic_pantheon"
+	trade_goods="cattle"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+1894={ #Seshmet
+	terrain="plains"
+	culture="abdjan"
+	religion="kemetic_pantheon"
+	trade_goods="cattle"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+2093={ #Retashaka
+	terrain="flood_plain"
+	culture="abdjan"
+	religion="kemetic_pantheon"
+	trade_goods="reeds"
+	civilization_value=0
+	barbarian_power=3
+	province_rank="settlement"
+	freemen={
+		amount=5
+	}
+	slaves={
+		amount=3
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+2306={ #Abdju
+	terrain="flood_plain"
+	culture="abdjan"
+	religion="kemetic_pantheon"
+	trade_goods="papyrus"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city"
+	citizen={
+		amount=9
+	}
+	freemen={
+		amount=8
+	}
+	slaves={
+		amount=6
+	}
+	tribesmen={
+		amount=1
+	}
+	holy_site="omen_mosiris"
+}
+
+2309={ #Uarekht
+	terrain="flood_plain"
+	culture="abdjan"
+	religion="kemetic_pantheon"
+	trade_goods="grain"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=6
+	}
+	slaves={
+		amount=3
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+2311={ #Khenra
+	terrain="flood_plain"
+	culture="abdjan"
+	religion="kemetic_pantheon"
+	trade_goods="earthware"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=6
+	}
+	slaves={
+		amount=3
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+2313={ #Hut_Repyt
+	terrain="flood_plain"
+	culture="khmunite"
+	religion="kemetic_pantheon"
+	trade_goods="papyrus"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city"
+	citizen={
+		amount=5
+	}
+	freemen={
+		amount=7
+	}
+	slaves={
+		amount=3
+	}
+	tribesmen={
+		amount=6
+		culture="ma"
+	}
+}
+
+2324={ #Kheri
+	terrain="flood_plain"
+	culture="abdjan"
+	religion="kemetic_pantheon"
+	trade_goods="grain"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=5
+	}
+	slaves={
+		amount=3
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+2326={ #Sait
+	terrain="flood_plain"
+	culture="abdjan"
+	religion="kemetic_pantheon"
+	trade_goods="cloth"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=6
+	}
+	slaves={
+		amount=3
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+2328={ #Nequt
+	terrain="flood_plain"
+	culture="abdjan"
+	religion="kemetic_pantheon"
+	trade_goods="grain"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=6
+	}
+	slaves={
+		amount=3
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+2331={ #Seshesh
+	terrain="flood_plain"
+	culture="abdjan"
+	religion="kemetic_pantheon"
+	trade_goods="cloth"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city"
+	citizen={
+		amount=4
+	}
+	freemen={
+		amount=7
+	}
+	slaves={
+		amount=5
+	}
+	tribesmen={
+		amount=6
+		culture="ma"
+	}
+	
+}
+
+2377={ #Marqata
+	terrain="hills"
+	culture="abdjan"
+	religion="kemetic_pantheon"
+	trade_goods="salt"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=2
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+2473={ #Hetemu
+	terrain="flood_plain"
+	culture="abdjan"
+	religion="kemetic_pantheon"
+	trade_goods="grain"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=6
+	}
+	slaves={
+		amount=3
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+2477={ #Tjenu
+	terrain="flood_plain"
+	culture="abdjan"
+	religion="kemetic_pantheon"
+	trade_goods="papyrus"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=6
+	}
+	slaves={
+		amount=3
+	}
+	tribesmen={
+		amount=1
+	}
+	holy_site="omen_manhur"
+}
+
+2609={ #Bahes
+	terrain="hills"
+	culture="abdjan"
+	religion="kemetic_pantheon"
+	trade_goods="stone"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+2614={ #Metun
+	terrain="hills"
+	culture="abdjan"
+	religion="kemetic_pantheon"
+	trade_goods="honey"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+2615={ #Neserit
+	terrain="hills"
+	culture="abdjan"
+	religion="kemetic_pantheon"
+	trade_goods="leather"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+2621={ #Henut
+	terrain="plains"
+	culture="abdjan"
+	religion="kemetic_pantheon"
+	trade_goods="honey"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+2622={ #Hemt
+	terrain="plains"
+	culture="abdjan"
+	religion="kemetic_pantheon"
+	trade_goods="fur"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+4666={ #Kheru
+	terrain="flood_plain"
+	culture="khmunite"
+	religion="kemetic_pantheon"
+	trade_goods="stone"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=5
+	}
+	slaves={
+		amount=3
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+4667={ #Apuatu
+	terrain="flood_plain"
+	culture="khmunite"
+	religion="kemetic_pantheon"
+	trade_goods="earthware"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=5
+	}
+	slaves={
+		amount=2
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+4668={ #Sekhepti
+	terrain="plains"
+	culture="khmunite"
+	religion="kemetic_pantheon"
+	trade_goods="stone"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+4669={ #Keba
+	terrain="plains"
+	culture="khmunite"
+	religion="kemetic_pantheon"
+	trade_goods="vegetables"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+4670={ #Unnut
+	terrain="plains"
+	culture="khmunite"
+	religion="kemetic_pantheon"
+	trade_goods="vegetables"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+4671={ #Tekas
+	terrain="plains"
+	culture="khmunite"
+	religion="kemetic_pantheon"
+	trade_goods="cloth"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+4672={ #Unemt
+	terrain="plains"
+	culture="khmunite"
+	religion="kemetic_pantheon"
+	trade_goods="leather"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+4673={ #Ur-maat
+	terrain="flood_plain"
+	culture="khmunite"
+	religion="kemetic_pantheon"
+	trade_goods="honey"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=5
+	}
+	slaves={
+		amount=2
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+4674={ #Netnet
+	terrain="plains"
+	culture="abdjan"
+	religion="kemetic_pantheon"
+	trade_goods="base_metals"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+4675={ #Qetetbu
+	terrain="plains"
+	culture="abdjan"
+	religion="kemetic_pantheon"
+	trade_goods="base_metals"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+4676={ #Mastiu
+	terrain="desert_hills"
+	culture="abdjan"
+	religion="kemetic_pantheon"
+	trade_goods="wild_game"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+4677={ #Tehen
+	terrain="plains"
+	culture="abdjan"
+	religion="kemetic_pantheon"
+	trade_goods="earthware"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+4678={ #Sekhai
+	terrain="flood_plain"
+	culture="abdjan"
+	religion="kemetic_pantheon"
+	trade_goods="grain"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=5
+	}
+	slaves={
+		amount=2
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+4679={ #Ka-hetep
+	terrain="plains"
+	culture="abdjan"
+	religion="kemetic_pantheon"
+	trade_goods="leather"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=6
+	}
+	slaves={
+		amount=2
+	}
+	tribesmen={
+		amount=1
+	}
+}
+

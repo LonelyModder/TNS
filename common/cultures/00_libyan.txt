@@ -5,7 +5,7 @@
 	
 	primary = missile_archers
 	second = axemen_heavy
-	flank = chariot_heavy
+	flank = chariot_light
 	
 	primary_navy = tetrere
 	secondary_navy = hexere
@@ -38,11 +38,11 @@
 	}
 
 	culture = {
-		psylli = {}
 		gilgamaic = {}
 		abystaic = {}
-		machlyanic = {}
-		gyzantianic = {}
+		auschisaic = {}
+		adyrmachidaic = {}
+		bacalan = {}
 		libi = {
 		male_names = {
 		Thanub Tjaenhebu Thanenhebu Senakhtenre Ahmose Apries Haaibre Amenmesse Amenemhat Ahmenhotep Akhenamun Ay Amenemnisu Amenemope Atlanersa Anlamani Aspelta Apries
@@ -417,11 +417,6 @@
 	}
 		}
 		nessamones = {}
-		gaetuli = {}
-		mauri = {}
-		massylic = {}
-		massaesylic = {}
-		lotophage = {}
 		ma = {
 			male_names = {
 		Thanub Tjaenhebu Thanenhebu Senakhtenre Ahmose Apries Haaibre Amenmesse Amenemhat Ahmenhotep Akhenamun Ay Amenemnisu Amenemope Atlanersa Anlamani Aspelta Apries
@@ -801,6 +796,6 @@
 	
 	graphical_culture = numidian_gfx
 	ethnicities = {
-		10 = north_african
+		10 = berber
 	}
 }

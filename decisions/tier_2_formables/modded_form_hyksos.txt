@@ -7,8 +7,7 @@
 			OR = {
 				country_culture_group = levantine
 				country_culture_group = aramaic
-				country_culture_group = illyric
-				country_culture_group = occidental
+				country_culture_group = synaic
 			}
 			#is_tribal = yes
 			NOT = {
@@ -23,10 +22,10 @@
 		highlight = {
 			scope:province = {
 				OR = {
-					province_id = 508
-					province_id = 569
-					province_id = 500
-					province_id = 511
+					province_id = 4563
+					province_id = 4565
+					province_id = 1331
+					province_id = 2261
 				}
 			}
 		}
@@ -41,10 +40,10 @@
 				}
 			}
 			can_form_nation_trigger = yes
-			owns = 508
-			owns = 569
-			owns = 500
-			owns = 511
+			owns = 4563
+			owns = 4565
+			owns = 1331
+			owns = 2261
 		}
 		
 		effect = {
@@ -69,24 +68,24 @@
 				limit = {
 					NOT = {
 						capital_scope = {
-							province_id = 511
+							province_id = 4563
 						}
 					}
 				}
-				set_capital = 511
+				set_capital = 4563
 				hidden_effect = {
-					p:511.state = {
-						set_state_capital = 511
+					p:4563.state = {
+						set_state_capital = 4563
 					}
 				}
 			}
-			p:511 = {
+			p:4563 = {
 				if = {
 					limit = { has_city_status = no }
 					set_city_status = city
 				}
 			}
-			p:511 = {
+			p:4563 = {
 				capital_formable_medium_effect = yes
 				formable_capital_modifier_normal_effect = yes
 			}

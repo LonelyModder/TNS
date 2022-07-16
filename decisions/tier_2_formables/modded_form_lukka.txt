@@ -5,7 +5,8 @@
 		
 		potential = {
 			OR = {
-				primary_culture = lukkanic
+				primary_culture = lukkan
+				primary_culture = lycic
 			}
 			#is_tribal = yes
 			NOT = {
@@ -20,9 +21,19 @@
 		highlight = {
 			scope:province = {
 				OR = {
-					province_id = 1995
-					province_id = 1990
-					province_id = 166
+					province_id = 2293
+					province_id = 7
+					province_id = 637
+					province_id = 1256
+					province_id = 3320 
+					province_id = 3007 
+					province_id = 2998 
+					province_id = 2947 
+					province_id = 2950 
+					province_id = 2937 
+					province_id = 2963 
+					province_id = 2972 
+					province_id = 2988
 				}
 			}
 		}
@@ -37,9 +48,19 @@
 				}
 			}
 			can_form_nation_trigger = yes
-			owns = 1995
-			owns = 1990
-			owns = 166
+			owns = 2293
+			owns = 7
+			owns = 637
+			owns = 1256
+			owns = 3320 
+			owns = 3007 
+			owns = 2998 
+			owns = 2947 
+			owns = 2950 
+			owns = 2937 
+			owns = 2963 
+			owns = 2972 
+			owns = 2988
 		}
 		
 		effect = {
@@ -64,24 +85,24 @@
 				limit = {
 					NOT = {
 						capital_scope = {
-							province_id = 1995
+							province_id = 1256
 						}
 					}
 				}
-				set_capital = 1995
+				set_capital = 1256
 				hidden_effect = {
-					p:1995.state = {
-						set_state_capital = 1995
+					p:1256.state = {
+						set_state_capital = 1256
 					}
 				}
 			}
-			p:1995 = {
+			p:1256 = {
 				if = {
 					limit = { has_city_status = no }
 					set_city_status = city
 				}
 			}
-			p:1995 = {
+			p:1256 = {
 				capital_formable_medium_effect = yes
 				formable_capital_modifier_normal_effect = yes
 			}

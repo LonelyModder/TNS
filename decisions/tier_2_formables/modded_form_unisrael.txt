@@ -4,13 +4,10 @@
 	form_unisrael = {
 		
 		potential = {
-			OR = {
-				primary_culture = judean
-				primary_culture = israelic
-			}
+			country_culture_group = synaic
 			#is_tribal = yes
 			NOT = {
-				tag = XIS
+				tag = JAO
 			}
 			NOR = {
 				is_tier_2_formable_trigger = yes
@@ -19,13 +16,7 @@
 		}
 		
 		highlight = {
-			scope:province = {
-				OR = {
-					province_id = 691
-					province_id = 679
-					province_id = 720
-				}
-			}
+			
 		}
 		
 		allow = {
@@ -33,20 +24,17 @@
 				text = unisrael_must_not_exist
 				NOT = {
 					any_country = {
-						tag = XIS
+						tag = JAO
 					}
 				}
 			}
 			can_form_nation_trigger = yes
-			owns = 691
-			owns = 679
-			owns = 720
 		}
 		
 		effect = {
 			custom_tooltip = "tier_2_formable_tooltip"
 			change_country_name = "Unisrael_Name"
-			change_country_flag = JAA
+			change_country_flag = JAE
 			if = {
 				limit = { is_tribal = yes }
 				add_country_modifier = {
@@ -59,7 +47,7 @@
 			hidden_effect = {
 				change_country_adjective = "Unisrael_ADJ"
 				change_country_color = "unisrael_color"
-				change_country_tag = XIS
+				change_country_tag = JAO
 			}
 			#capital_scope = {
 			#	if = {

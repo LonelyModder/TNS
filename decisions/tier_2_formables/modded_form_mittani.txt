@@ -4,7 +4,7 @@
 	form_mittani = {
 		
 		potential = {
-			primary_culture = mittanic
+			country_culture_group = hurric
 			#is_tribal = yes
 			NOT = {
 				tag = XMI
@@ -18,12 +18,7 @@
 		highlight = {
 			scope:province = {
 				OR = {
-					province_id = 845
-					province_id = 830
-					province_id = 819
-					province_id = 862
-					province_id = 809
-					province_id = 844
+					province_id = 4961
 				}
 			}
 		}
@@ -38,12 +33,7 @@
 				}
 			}
 			can_form_nation_trigger = yes
-			owns = 845
-			owns = 830
-			owns = 819
-			owns = 862
-			owns = 809
-			owns = 844
+			owns = 4961
 		}
 		
 		effect = {
@@ -68,24 +58,24 @@
 				limit = {
 					NOT = {
 						capital_scope = {
-							province_id = 844
+							province_id = 4961
 						}
 					}
 				}
-				set_capital = 844
+				set_capital = 4961
 				hidden_effect = {
-					p:844.state = {
-						set_state_capital = 844
+					p:4961.state = {
+						set_state_capital = 4961
 					}
 				}
 			}
-			p:844 = {
+			p:4961 = {
 				if = {
 					limit = { has_city_status = no }
 					set_city_status = city
 				}
 			}
-			p:844 = {
+			p:4961 = {
 				capital_formable_medium_effect = yes
 				formable_capital_modifier_normal_effect = yes
 			}

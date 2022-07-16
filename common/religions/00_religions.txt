@@ -1,11 +1,22 @@
 ﻿kemetic_pantheon = { # Egyptian Faith
-	color = hsv { 0.15  1  0.7 }
+	color = hsv { 0.10  0.9  0.88 }
 	modifier = { 
 		ruler_popularity_gain = 0.05
 		global_building_slot = 1
 		global_pop_conversion_speed_modifier = -0.15
 	}
 	religion_category = pantheon
+}
+
+atenism = { # Atenite Faith
+	color = hsv { 0.15  1  0.7 }
+	modifier = {
+		global_building_slot = 1
+		global_pop_conversion_speed_modifier = 0.3
+		global_pop_assimilation_speed_modifier = -0.2
+	}
+	religion_category = prophets
+	can_deify_ruler = no
 }
 
 libyan_pantheon = { # Libu Faith
@@ -160,7 +171,7 @@ ethiopian_pantheon = { # Nubian gods
 }
 
 scythic_pantheon = { # Nomadic gods 
-	color = hsv { 0.16 1 0.8 }
+	color = hsv { 0.2 0.32 0.55 }
 	modifier = { 
 		agressive_expansion_impact = -0.1
 		land_morale_modifier = 0.2

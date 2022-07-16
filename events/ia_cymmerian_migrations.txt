@@ -9,9 +9,9 @@ cymmerian_invasion.1 = { # Invasion of todays Azerbeijan
 	trigger = {
 		NOT = { has_global_variable = gimmiri1_invasion_occurred }
 		OR = {
-			c:PDS = { owns = 7193 }
-			c:PDS = { owns = 6155 }
-			c:PDS = { owns = 6164 }
+			p:5407.owner = { owns = 5627 }
+			p:5407.owner = { owns = 5398 }
+			p:5407.owner = { owns = 5478 }
 		}
 		#c:PDM = { exists = no }
 	}
@@ -20,7 +20,7 @@ cymmerian_invasion.1 = { # Invasion of todays Azerbeijan
 		set_global_variable = {
 			name = gimmiri1_invasion_occurred
 		}
-		p:1621 = {
+		p:5398 = {
             while = {
                 count = 50
                 define_pop = {
@@ -30,7 +30,7 @@ cymmerian_invasion.1 = { # Invasion of todays Azerbeijan
                 }
             }                
         }
-		p:1621 = { #Gomora
+		p:5398 = { #Gomora
 			create_country = {
 				change_government = despotic_monarchy
 				set_primary_culture = gomoran
@@ -39,14 +39,14 @@ cymmerian_invasion.1 = { # Invasion of todays Azerbeijan
 				change_country_adjective = "Gomara_ADJECTIVE"
 			}
 		}
-		p:1620.owner = {
+		p:5398.owner = {
 			declare_war_with_wargoal = {
 				war_goal = conquer_wargoal
-				province = p:1621
-				target = p:1621.owner
+				province = p:5617
+				target = p:5617.owner
 			}
 		}
-		p:1621.owner = {
+		p:5398.owner = {
 			add_country_modifier = {
 				name = fanatical_culture
 				#duration = 365
@@ -54,7 +54,7 @@ cymmerian_invasion.1 = { # Invasion of todays Azerbeijan
 			capital_scope.governorship = {
 				raise_legion = {
 					create_unit = {
-						location = 1621
+						location = 5398
 						add_subunit = chariot_light
 						add_subunit = chariot_light
 						add_subunit = chariot_light
@@ -128,9 +128,9 @@ cymmerian_invasion.2 = { # Invasion of Anatolia
 		NOT = { has_global_variable = gimmiri2_invasion_occurred }
 		has_global_variable = gimmiri1_invasion_occurred
 		OR = {
-			c:PDS = { owns = 4551 }
-			c:PDS = { owns = 7192 }
-			c:PDS = { owns = 6139 }
+			p:4030.owner = { owns = 3688 }
+			p:4030.owner = { owns = 3633 }
+			p:4030.owner = { owns = 3368 }
 		}
 		#c:PDL = { exists = no }
 	}
@@ -139,7 +139,7 @@ cymmerian_invasion.2 = { # Invasion of Anatolia
 		set_global_variable = {
 			name = gimmiri2_invasion_occurred
 		}
-		p:195 = {
+		p:3378 = {
             while = {
                 count = 50
                 define_pop = {
@@ -149,7 +149,7 @@ cymmerian_invasion.2 = { # Invasion of Anatolia
                 }
             }                
         }
-		p:195 = { #Kappadokia
+		p:3378 = { #Kappadokia
 			create_country = {
 				change_government = despotic_monarchy
 				set_primary_culture = kappadokian
@@ -158,14 +158,14 @@ cymmerian_invasion.2 = { # Invasion of Anatolia
 				change_country_adjective = "Kappadokia_ADJECTIVE"
 			}
 		}
-		p:196.owner = {
+		p:3378.owner = {
 			declare_war_with_wargoal = {
 				war_goal = conquer_wargoal
-				province = p:195
-				target = p:195.owner
+				province = p:3380
+				target = p:3380.owner
 			}
 		}
-		p:195.owner = {
+		p:3378.owner = {
 			add_country_modifier = {
 				name = fanatical_culture
 				#duration = 365
@@ -173,7 +173,7 @@ cymmerian_invasion.2 = { # Invasion of Anatolia
 			capital_scope.governorship = {
 				raise_legion = {
 					create_unit = {
-						location = 195
+						location = 3378
 						add_subunit = chariot_light
 						add_subunit = chariot_light
 						add_subunit = chariot_light

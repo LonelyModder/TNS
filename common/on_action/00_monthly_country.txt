@@ -8,12 +8,17 @@
 		family_events.7 #Tribal family fall
 		family_events.9 #Rise of Family in Republics
 		#Modded events
+		ia_kemet_flavor.1
+		ia_kemet_flavor.2
+		ia_kemet_flavor.3
+		ia_kemet_flavor.4
+		ia_kemet_flavor.5
 		#Invasions
 		cymmerian_invasion.1
 		cymmerian_invasion.2
-		rise_of_massagetae.1
-		celtic_invasions.1
-		tibetan_invasions.1
+		#rise_of_massagetae.1
+		#celtic_invasions.1
+		#tibetan_invasions.1
 		#Equipment
 		equipment_events.1
 		equipment_events.2

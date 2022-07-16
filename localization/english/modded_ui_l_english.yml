@@ -2,12 +2,30 @@
 
  aestian:2 "Heretic"
  matrist_religion:0 "Heresy"
+ 
+ ia_colonize_button_confirm_t:0 "Colonization"
+ ia_colonize_button_confirm_desc:0 "Are you sure you want to colonize the territory?"
 
+ mountain_valley:0 "Mountain Valley"
+ mountain_valley_desc:0 "Land covered on two sides by mountains, giving a river valley rich in resources aswell as easily defendable."
+ deep_forest:0 "Deep Forest"
+ deep_forest_desc:0 "A deep ancient forest that has plenty of wild game and trees, but not much else and is not especially suitable for large settlements."
+ island_coast:0 "Island Coast"
+ island_coast_desc:0 "Island Coasts are not overly forested nor especially filled with hills."
+ desert_hills:0 "Desert Hills"
+ desert_hills_desc:0 ""
+ desert_valley:0 "Desert Valley"
+ desert_valley_desc:0 ""
+ oasis:0 "Oasis"
+ oasis_desc:0 ""
+ flood_plain:0 "Floodplain"
+ flood_plain_desc:0 ""
+ 
+ 
  #Start date
- CURRENT_DATE:0 "[GetChristianDateString]"
  CURRENT_DATE_TOOLTIP:2 "#T Current Date#!\nThe game date counts from the death of Sargon the Great the first ever emperor in 2279 BCE.\n\n#TF Now any King who wants to call himself my equal wherever I went let him go. - Sargon the Great#!"
  DATE_TOOLTIP:0 "[Date.GetTimeUntil]\n years since death of Sargon."
- THE_WORLD:1 "[GetChristianDateString] BC"
+ THE_WORLD:1 "[GetDateString] ASD"
  THE_WORLD_TOOLTIP:1 "#T Current Date#!\nASD stands for After Sargons Death. The year 2279 BCE was chosen as the date from which the time will be counted because Sargon is first emperor accepted by most of scientific community. His conquests inspired many future leaders."
  
  ASHURINTRO:0 "#T Assyria#!\nDifficulty: #Y Easy#!\n\n At the beginning of the game, the Assyrian Empire lost control of its borders and the Aramaic tribes managed to take control of most of the western and southern territory of Assyria. The old lion is wounded but not dead. The Assyrians are a highly militarized culture, and recent defeats have only strengthened their conviction that their sacred mission is to bring order and security to the region by all means necessary. "
@@ -29,3 +47,17 @@
  Siamun:0 "Siamun"
  Siamun2:0 "Siamun"
  
+ #Province names
+ PROV4242_synaic:1 "Jerusalem"
+ PROV4611_grekoid:1 "Alexandria"
+ PROV4563_synaic:1 "Avaris"
+ PROV4563_aramaic:1 "Avaris"
+ PROV4563_levantine:1 "Avaris"
+ 
+ #Wargoals
+ event_conquest_wargoal:0 "Historical Conflict"
+ war_goal_event_conquest_wargoal:0 "Historical Conflict"
+ war_goal_event_conquest_wargoal_desc:0 "This is a special historical conflict wargoal. During this conflict the allies will give you the regions the occupy and a cost for anexing the territories is greatly reduced to reflect the historical accuracy."
+ demands_of_ashur_wargoal:0 "Ashur's Demand"
+ war_goal_demands_of_ashur_wargoal:0 "Ashur's Demand"
+ war_goal_demands_of_ashur_wargoal_desc:0 "Ashur's followers are required to participate in or support annual war campaigns. He demands conquests, and defying the will of the god of war is punishable by death."

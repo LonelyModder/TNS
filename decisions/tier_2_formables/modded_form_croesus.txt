@@ -5,7 +5,7 @@
 		
 		potential = {
 			OR = {
-				primary_culture = lydii
+				primary_culture = sfardan
 			}
 			#is_tribal = yes
 			NOT = {
@@ -20,10 +20,12 @@
 		highlight = {
 			scope:province = {
 				OR = {
-					province_id = 296
-					province_id = 292
-					province_id = 1947
-					province_id = 295
+					province_id = 2263
+					province_id = 2474
+					province_id = 2541
+					province_id = 2547
+					province_id = 1361
+					province_id = 1350
 				}
 			}
 		}
@@ -38,10 +40,12 @@
 				}
 			}
 			can_form_nation_trigger = yes
-			owns = 296
-			owns = 292
-			owns = 1947
-			owns = 295
+			owns = 2263
+			owns = 2474
+			owns = 2541
+			owns = 2547
+			owns = 1361
+			owns = 1350
 		}
 		
 		effect = {

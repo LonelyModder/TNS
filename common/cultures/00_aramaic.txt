@@ -56,15 +56,139 @@
 	}
 	
 	culture = {
-		aramean = {}
-		hatti_aramean = {}
-		saramean = {}
-		sutean = {}
+		aram_hamatite = {
+			levy_template = levy_hattian
+			male_names = {
+				Piyassili Sahurunuwa Ini-Tessub Talmi-Tessub Kuzi-Tessub Mazakarhuha Ir-Tessub Tudhaliya Suppiluliuma Hattusili X-paziti Uratarhunza
+				Suhi Astuwalamanza Katuwa Sangara Astiruwa Yariri Kamani Sastura Pisiri Pugnus-mili Runtiya Arnuwanti Halpasulupi Kundašpu Sulumal
+				Gunzinanu Tarhunazi Muwatalli Mugallu Lalli Kundaspu Hapatila Ariyahina Hamiyata Muwizi Larama Tarhulara Taita Manana Halparuntiya
+				Labarna Surri Tutammu 
+			}
+			female_names = {
+				Nysa Aryenis Ada Glaphyra Pythodorida Etazeta Drypetina Orsabaris Hypsicratea Boa Taita
+			} 
+			family = {
+				
+				Piyassilid Sahurunuwanid Mazakarhuhanid Tudhaliyanid Suppiluliumid Hattusilid Hamiyatanid Muwizid Manananid Labarnanid
+				
+			}
+		}
+		aram_lukhutic = {
+			levy_template = levy_hattian
+			male_names = {
+				Piyassili Sahurunuwa Ini-Tessub Talmi-Tessub Kuzi-Tessub Mazakarhuha Ir-Tessub Tudhaliya Suppiluliuma Hattusili X-paziti Uratarhunza
+				Suhi Astuwalamanza Katuwa Sangara Astiruwa Yariri Kamani Sastura Pisiri Pugnus-mili Runtiya Arnuwanti Halpasulupi Kundašpu Sulumal
+				Gunzinanu Tarhunazi Muwatalli Mugallu Lalli Kundaspu Hapatila Ariyahina Hamiyata Muwizi Larama Tarhulara Taita Manana Halparuntiya
+				Labarna Surri Tutammu 
+			}
+			female_names = {
+				Nysa Aryenis Ada Glaphyra Pythodorida Etazeta Drypetina Orsabaris Hypsicratea Boa Taita
+			} 
+			family = {
+				
+				Piyassilid Sahurunuwanid Mazakarhuhanid Tudhaliyanid Suppiluliumid Hattusilid Hamiyatanid Muwizid Manananid Labarnanid
+				
+			}
+		}
+		aram_arpadic = {
+			levy_template = levy_hattian
+			male_names = {
+				Piyassili Sahurunuwa Ini-Tessub Talmi-Tessub Kuzi-Tessub Mazakarhuha Ir-Tessub Tudhaliya Suppiluliuma Hattusili X-paziti Uratarhunza
+				Suhi Astuwalamanza Katuwa Sangara Astiruwa Yariri Kamani Sastura Pisiri Pugnus-mili Runtiya Arnuwanti Halpasulupi Kundašpu Sulumal
+				Gunzinanu Tarhunazi Muwatalli Mugallu Lalli Kundaspu Hapatila Ariyahina Hamiyata Muwizi Larama Tarhulara Taita Manana Halparuntiya
+				Labarna Surri Tutammu 
+			}
+			female_names = {
+				Nysa Aryenis Ada Glaphyra Pythodorida Etazeta Drypetina Orsabaris Hypsicratea Boa Taita
+			} 
+			family = {
+				
+				Piyassilid Sahurunuwanid Mazakarhuhanid Tudhaliyanid Suppiluliumid Hattusilid Hamiyatanid Muwizid Manananid Labarnanid
+				
+			}
+		}
+		aram_samalite = {
+			levy_template = levy_hattian
+			male_names = {
+				Piyassili Sahurunuwa Ini-Tessub Talmi-Tessub Kuzi-Tessub Mazakarhuha Ir-Tessub Tudhaliya Suppiluliuma Hattusili X-paziti Uratarhunza
+				Suhi Astuwalamanza Katuwa Sangara Astiruwa Yariri Kamani Sastura Pisiri Pugnus-mili Runtiya Arnuwanti Halpasulupi Kundašpu Sulumal
+				Gunzinanu Tarhunazi Muwatalli Mugallu Lalli Kundaspu Hapatila Ariyahina Hamiyata Muwizi Larama Tarhulara Taita Manana Halparuntiya
+				Labarna Surri Tutammu 
+			}
+			female_names = {
+				Nysa Aryenis Ada Glaphyra Pythodorida Etazeta Drypetina Orsabaris Hypsicratea Boa Taita
+			} 
+			family = {
+				
+				Piyassilid Sahurunuwanid Mazakarhuhanid Tudhaliyanid Suppiluliumid Hattusilid Hamiyatanid Muwizid Manananid Labarnanid
+				
+			}
+		}
+		aram_musuwaric = {
+			levy_template = levy_hattian
+			male_names = {
+				Piyassili Sahurunuwa Ini-Tessub Talmi-Tessub Kuzi-Tessub Mazakarhuha Ir-Tessub Tudhaliya Suppiluliuma Hattusili X-paziti Uratarhunza
+				Suhi Astuwalamanza Katuwa Sangara Astiruwa Yariri Kamani Sastura Pisiri Pugnus-mili Runtiya Arnuwanti Halpasulupi Kundašpu Sulumal
+				Gunzinanu Tarhunazi Muwatalli Mugallu Lalli Kundaspu Hapatila Ariyahina Hamiyata Muwizi Larama Tarhulara Taita Manana Halparuntiya
+				Labarna Surri Tutammu 
+			}
+			female_names = {
+				Nysa Aryenis Ada Glaphyra Pythodorida Etazeta Drypetina Orsabaris Hypsicratea Boa Taita
+			} 
+			family = {
+				
+				Piyassilid Sahurunuwanid Mazakarhuhanid Tudhaliyanid Suppiluliumid Hattusilid Hamiyatanid Muwizid Manananid Labarnanid
+				
+			}
+		}
+		haqimite = {}
+		bit_adinic = {}
+		shugabite = {}
+		damascite = {}
+		tadmori = {}
+		bahianic = {}
+		mamblan = {}
+		hiranic = {}
+		rabilan = {}
+		redan = {}
+		karman = {}
+		assan = {}
+		kalakite = {}
+		yahiran = {}
+		yakinite = {}
+		ahaanu = {}
+		gambulu = {}
+		puqudian = {}
+		litaian = {}
+		ruan = {}
+		dakurite = {}
+		amukanese = {}
+		shilanian = {}
+		hashmaric = {}
+		utunian = {}
+		zamanite = {}
+		rapiqan = {}
+		laqan = {}
+		sirqan = {}
+		khindanic = {}
+		shuhan = {}
+		khalupan = {}
+		rehobic = {}
+		temmanite = {}
+		immerinite = {}
+		surugan = {}
+		abnite = {}
+		kharrani = {}
+		geshurite = {}
+		maakachic = {}
+		hauranic = {}
+		sovakhite = {}
+		argobi = {}
+		bashani = {}
 		ammonite = {}
 		moabite = {}
 		temannite = {}
 		chaldean = {}
-		ahlamic = {}
 		midianic = {}
 		edomite = {}
 		shasan = {}
@@ -75,8 +199,8 @@
 		ELYMAEI CHALDAEI RHAMBAIOI KARDUCHOI GARAMAIOI
 	}
 	
-	graphical_culture = carthaginian_gfx
+	graphical_culture = levantine_gfx
 	ethnicities = {
-		10 = arabian
+		10 = berber
 	}
 }

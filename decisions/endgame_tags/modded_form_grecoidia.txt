@@ -17,16 +17,13 @@
 		highlight = {
 			scope:province = {
 				OR = {
-					is_in_area = central_greece_area
-					is_in_area = achaea_area
-					is_in_area = south_peleponnesos_area
-					is_in_area = thessaly_area
-					is_in_area = epirus_area
-					is_in_area = crete_area
-					is_in_area = aegean_islands_area
-					is_in_area = arcadia_area
-					is_in_area = aetolia_area
-					is_in_area = euboea_area
+					is_in_region = thessaly_region
+					is_in_region = aetolia_region
+					is_in_region = boiotia_region
+					is_in_region = west_peloponessos_region
+					is_in_region = east_peloponessos_region
+					is_in_region = epeiros_region
+					is_in_region = attika_and_euboea_region
 				}
 			}
 		}
@@ -41,16 +38,13 @@
 				}
 			}
 			can_form_nation_trigger = yes
-			owns_area = central_greece_area
-			owns_area = achaea_area
-			owns_area = south_peleponnesos_area
-			owns_area = thessaly_area
-			owns_area = epirus_area
-			owns_area = crete_area
-			owns_area = aegean_islands_area
-			owns_area = arcadia_area
-			owns_area = aetolia_area
-			owns_area = euboea_area
+			owns_region = thessaly_region
+			owns_region = aetolia_region
+			owns_region = boiotia_region
+			owns_region = west_peloponessos_region
+			owns_region = east_peloponessos_region
+			owns_region = epeiros_region
+			owns_region = attika_and_euboea_region
 		}
 		
 		effect = {

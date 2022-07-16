@@ -1,0 +1,988 @@
+﻿431={ #Messolonghi
+	terrain="plains"
+	culture="abystaic"
+	religion="libyan_pantheon"
+	trade_goods="fish"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=2
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+4709={ #Aydy
+	terrain="desert"
+	culture="gilgamaic"
+	religion="libyan_pantheon"
+	trade_goods="salt"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=3
+	}
+}
+
+4710={ #Washta
+	terrain="desert"
+	culture="gilgamaic"
+	religion="libyan_pantheon"
+	trade_goods="fish"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=2
+	}
+}
+
+4711={ #Ahrelma
+	terrain="desert"
+	culture="gilgamaic"
+	religion="libyan_pantheon"
+	trade_goods="salt"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=2
+	}
+}
+
+4712={ #Aghilasse
+	terrain="desert"
+	culture="gilgamaic"
+	religion="libyan_pantheon"
+	trade_goods="fish"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=3
+	}
+}
+
+4715={ #Adlasse
+	terrain="plains"
+	culture="abystaic"
+	religion="libyan_pantheon"
+	trade_goods="silphium"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+4716={ #Ifista
+	terrain="desert"
+	culture="gilgamaic"
+	religion="libyan_pantheon"
+	trade_goods="wild_game"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=3
+	}
+}
+
+4717={ #Jaje
+	terrain="desert"
+	culture="gilgamaic"
+	religion="libyan_pantheon"
+	trade_goods="fish"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=3
+	}
+}
+
+4718={ #Iwarkate
+	terrain="desert"
+	culture="abystaic"
+	religion="libyan_pantheon"
+	trade_goods="wild_game"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=3
+	}
+}
+
+4719={ #Aziris
+	terrain="desert"
+	culture="azirian"
+	religion="canaanitic_pantheon"
+	trade_goods="fish"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city"
+	citizen={
+		amount=2
+	}
+	freemen={
+		amount=6
+	}
+	slaves={
+		amount=3
+	}
+	tribesmen={
+		amount=2
+		culture="abystaic"
+		religion="libyan_pantheon"
+	}
+}
+
+4804={ #Katisa
+	terrain="plains"
+	culture="abystaic"
+	religion="libyan_pantheon"
+	trade_goods="wild_game"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+4902={ #Shot-jemet
+	terrain="oasis"
+	culture="nessamones"
+	religion="libyan_pantheon"
+	trade_goods="dates"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=5
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+4903={ #Batata
+	terrain="plains"
+	culture="abystaic"
+	religion="libyan_pantheon"
+	trade_goods="silphium"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+4904={ #Timsahe
+	terrain="plains"
+	culture="abystaic"
+	religion="libyan_pantheon"
+	trade_goods="silphium"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+4905={ #Ikhasse
+	terrain="plains"
+	culture="abystaic"
+	religion="libyan_pantheon"
+	trade_goods="fish"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+4906={ #Tyazite
+	terrain="plains"
+	culture="abystaic"
+	religion="libyan_pantheon"
+	trade_goods="fish"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+4907={ #Doupe
+	terrain="plains"
+	culture="abystaic"
+	religion="libyan_pantheon"
+	trade_goods="silphium"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+4908={ #Itbirane
+	terrain="plains"
+	culture="bacalan"
+	religion="libyan_pantheon"
+	trade_goods="fish"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+4909={ #Ifile
+	terrain="plains"
+	culture="bacalan"
+	religion="libyan_pantheon"
+	trade_goods="silphium"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+4910={ #Zarafate
+	terrain="plains"
+	culture="bacalan"
+	religion="libyan_pantheon"
+	trade_goods="fish"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+4911={ #Yisse
+	terrain="plains"
+	culture="auschisaic"
+	religion="libyan_pantheon"
+	trade_goods="silphium"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+4912={ #Bitelma
+	terrain="plains"
+	culture="auschisaic"
+	religion="libyan_pantheon"
+	trade_goods="fish"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+4913={ #Sabbate
+	terrain="plains"
+	culture="auschisaic"
+	religion="libyan_pantheon"
+	trade_goods="fish"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+4914={ #Ponja
+	terrain="plains"
+	culture="auschisaic"
+	religion="libyan_pantheon"
+	trade_goods="silphium"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+4915={ #Tablate
+	terrain="plains"
+	culture="auschisaic"
+	religion="libyan_pantheon"
+	trade_goods="hemp"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+4916={ #Sahra
+	terrain="plains"
+	culture="auschisaic"
+	religion="libyan_pantheon"
+	trade_goods="hemp"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+4917={ #Ourare
+	terrain="desert"
+	culture="auschisaic"
+	religion="libyan_pantheon"
+	trade_goods="fish"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=3
+	}
+}
+
+4918={ #Ktabe
+	terrain="desert"
+	culture="auschisaic"
+	religion="libyan_pantheon"
+	trade_goods="elephants_african"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=3
+	}
+}
+
+4919={ #Iapicine
+	terrain="desert_hills"
+	culture="auschisaic"
+	religion="libyan_pantheon"
+	trade_goods="cattle"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=3
+	}
+}
+
+4920={ #Shajrat
+	terrain="forest"
+	culture="auschisaic"
+	religion="libyan_pantheon"
+	trade_goods="wood"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=2
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+4921={ #Ismade
+	terrain="hills"
+	culture="auschisaic"
+	religion="libyan_pantheon"
+	trade_goods="stone"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=2
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+4922={ #Tbisha
+	terrain="plains"
+	culture="auschisaic"
+	religion="libyan_pantheon"
+	trade_goods="silphium"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+4923={ #Shta
+	terrain="forest"
+	culture="auschisaic"
+	religion="libyan_pantheon"
+	trade_goods="wood"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+4924={ #Yallise
+	terrain="hills"
+	culture="bacalan"
+	religion="libyan_pantheon"
+	trade_goods="leather"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=2
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+4925={ #Argaze
+	terrain="forest"
+	culture="bacalan"
+	religion="libyan_pantheon"
+	trade_goods="wood"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=2
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+4926={ #Oustade
+	terrain="hills"
+	culture="bacalan"
+	religion="libyan_pantheon"
+	trade_goods="stone"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=2
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+4927={ #Adale
+	terrain="hills"
+	culture="abystaic"
+	religion="libyan_pantheon"
+	trade_goods="earthware"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=2
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+4928={ #Amallale
+	terrain="forest"
+	culture="abystaic"
+	religion="libyan_pantheon"
+	trade_goods="wood"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+4929={ #Dazirar
+	terrain="hills"
+	culture="abystaic"
+	religion="libyan_pantheon"
+	trade_goods="stone"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+4930={ #Ikwa
+	terrain="hills"
+	culture="abystaic"
+	religion="libyan_pantheon"
+	trade_goods="base_metals"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+4931={ #Iwsaa
+	terrain="hills"
+	culture="abystaic"
+	religion="libyan_pantheon"
+	trade_goods="elephants_african"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+4932={ #Douke
+	terrain="desert_hills"
+	culture="abystaic"
+	religion="libyan_pantheon"
+	trade_goods="stone"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+4933={ #Doushbihe
+	terrain="desert"
+	culture="abystaic"
+	religion="libyan_pantheon"
+	trade_goods="stone"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=2
+	}
+}
+
+4934={ #Albarrani
+	terrain="hills"
+	culture="auschisaic"
+	religion="libyan_pantheon"
+	trade_goods="base_metals"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=2
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+4935={ #Ighla
+	terrain="hills"
+	culture="auschisaic"
+	religion="libyan_pantheon"
+	trade_goods="cattle"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=2
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+4936={ #Dazdade
+	terrain="forest"
+	culture="auschisaic"
+	religion="libyan_pantheon"
+	trade_goods="wood"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=2
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+4937={ #Irtabe
+	terrain="hills"
+	culture="auschisaic"
+	religion="libyan_pantheon"
+	trade_goods="stone"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=2
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+4938={ #Aazraye
+	terrain="hills"
+	culture="bacalan"
+	religion="libyan_pantheon"
+	trade_goods="base_metals"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+4939={ #Imaklate
+	terrain="plains"
+	culture="bacalan"
+	religion="libyan_pantheon"
+	trade_goods="cattle"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+4940={ #Ijaffe
+	terrain="plains"
+	culture="abystaic"
+	religion="libyan_pantheon"
+	trade_goods="elephants_african"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+4941={ #Idlame
+	terrain="hills"
+	culture="abystaic"
+	religion="libyan_pantheon"
+	trade_goods="cattle"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+4942={ #Oufrishe
+	terrain="plains"
+	culture="abystaic"
+	religion="libyan_pantheon"
+	trade_goods="cattle"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+4943={ #Moulou
+	terrain="desert_hills"
+	culture="abystaic"
+	religion="libyan_pantheon"
+	trade_goods="stone"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+4944={ #Afarane
+	terrain="desert"
+	culture="auschisaic"
+	religion="libyan_pantheon"
+	trade_goods="wild_game"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=3
+	}
+}
+
+4945={ #Tifalfalte
+	terrain="hills"
+	culture="auschisaic"
+	religion="libyan_pantheon"
+	trade_goods="elephants_african"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=2
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+4946={ #Soukkare
+	terrain="hills"
+	culture="auschisaic"
+	religion="libyan_pantheon"
+	trade_goods="wild_game"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=2
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+4947={ #Amansy
+	terrain="hills"
+	culture="auschisaic"
+	religion="libyan_pantheon"
+	trade_goods="stone"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=2
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+4948={ #Ibawane
+	terrain="desert_hills"
+	culture="bacalan"
+	religion="libyan_pantheon"
+	trade_goods="wild_game"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+4952={ #Inka
+	terrain="oasis"
+	culture="nessamones"
+	religion="libyan_pantheon"
+	trade_goods="cattle"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+4953={ #Ihla
+	terrain="oasis"
+	culture="nessamones"
+	religion="libyan_pantheon"
+	trade_goods="reeds"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+4954={ #Dakdime
+	terrain="oasis"
+	culture="nessamones"
+	religion="libyan_pantheon"
+	trade_goods="fruits"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+4955={ #Takattite
+	terrain="oasis"
+	culture="nessamones"
+	religion="libyan_pantheon"
+	trade_goods="cattle"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
