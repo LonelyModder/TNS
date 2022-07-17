@@ -1,13 +1,5 @@
 provinces = {
-	2133={ # Giza
-		great_work=11
-	}	
-	6087={ # Babylon
-		great_work=21
-	}
-	6378={ # Choga-Zunbil
-		great_work=22
-	}
+	
 }
 
 great_work_manager={	
