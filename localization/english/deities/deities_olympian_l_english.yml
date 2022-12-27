@@ -97,7 +97,7 @@
  deity_martemis:0 "$omen_martemis$"
  omen_martemis:1 "Artemis"
  omen_martemis_desc:4 "$artemis_description$"
- artemis_description:0 "She is one of the twin deities who were born at Delos, by Zeus and Leto. Supposedly after helping her mother give birth to her brother Apollo, she saw herself as destined to become a midwife, becoming a patron goddess of birth. She is also a goddess of the wild, the hunt, and fertility.\n\nAt a young age the deity asked her father, Zeus, to grant her eternal viginity. She protected her own chastity, as well as that of her companions, with fury and anger. It is said the few unlucky hunters who come across the goddess suffer a quick yet painful death.\n\nA large temple to the deity is erected in Ephesos, known as one of the greatest wonders of the world."
+ artemis_description:0 "She is one of the twin deities who were born at Delos, by Zeus and Leto. Supposedly after helping her mother give birth to her brother Apollo, she saw herself as destined to become a midwife, becoming a patron goddess of birth. She is also a goddess of the wild, the hunt, and fertility.\n\nAt a young age the deity asked her father, Zeus, to grant her eternal virginity. She protected her own chastity, as well as that of her companions, with fury and anger. It is said the few unlucky hunters who come across the goddess suffer a quick yet painful death.\n\nA large temple to the deity is erected in Ephesos, known as one of the greatest wonders of the world."
  deity_maphrodite:0 "$omen_maphrodite$"
  omen_maphrodite:1 "Aphrodite"
  omen_maphrodite_desc:3 "$aphrodite_description$"
