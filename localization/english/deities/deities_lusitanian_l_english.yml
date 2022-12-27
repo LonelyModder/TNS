@@ -17,7 +17,7 @@
  omen_bandi_desc:3 "Protector (or protectress we still don't know) of the local community. God of the Vexillum or standard."
  deity_cossus:0 "$omen_cossus$"
  omen_cossus:1 "Cossus"
- omen_cossus_desc:3 "Warrior god, with great popularity among the Gallaeci, was one of the most revered gods in nort-west Iberia."
+ omen_cossus_desc:3 "Warrior god, with great popularity among the Gallaeci, was one of the most revered gods in north-west Iberia."
  deity_bromanicus:0 "$omen_bromanicus$"
  omen_bromanicus:1 "Bromanicus"
  omen_bromanicus_desc:3 "God of hot springs."
